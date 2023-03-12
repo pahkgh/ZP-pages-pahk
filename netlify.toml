@@ -4,20 +4,20 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to see more questionable ideas 👆"
+LANDING_BUTTON = "Click👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Never do something in ten minutes if you can automate it in ten hours"
+LANDING_DESCRIPTION = "Chaegscang📂"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "🥔"
+LANDING_TITLE = "📂"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/pahkgh/ZP-pages-pahk"
 # (Optional) Site title in navbar
-SITE_TITLE = "an open sourced 🧠"
+SITE_TITLE = "Chaegscang📂"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
-SITE_TITLE_TAB = ""
+SITE_TITLE_TAB = "Chaegscang📂"
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://starlit-marzipan-e8ed0e.netlify.app"
 # (Optional) Site Timezone
@@ -26,7 +26,7 @@ ZOLA_VERSION = "0.16.1"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
 # (Optional) Google Analytics Measurement ID
-GANALYTICS = "G-9EJCNPXBF6"
+GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
@@ -41,7 +41,7 @@ SIDEBAR_COLLAPSED = ""
 FOOTER = ""
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "me"
-COMMENTS_GISCUSS = "y"
+COMMENTS_GISCUSS = ""
 EDIT_PAGE = "y"
 EDIT_PAGE_BUTTON_TEXT = "Change my mind!"
 LOCAL_GRAPH = "y"

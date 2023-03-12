@@ -19,7 +19,7 @@ SITE_TITLE = "Chaegscang📂"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = "Chaegscang📂"
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://starlit-marzipan-e8ed0e.netlify.app"
+SITE_URL = "https://chaegscang.netlify.app"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Seoul"
 ZOLA_VERSION = "0.16.1"

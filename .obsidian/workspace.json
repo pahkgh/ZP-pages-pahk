@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/303a1 칸트가 말한 보편적 우호는 방문권으로부터.md",
+                "file": "관광객의 철학/304 사회를 만들고 마는 존재.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/303a1 칸트가 말한 보편적 우호는 방문권으로부터.md",
+                "file": "관광객의 철학/304 사회를 만들고 마는 존재.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/303a1 칸트가 말한 보편적 우호는 방문권으로부터.md",
+                "file": "관광객의 철학/304 사회를 만들고 마는 존재.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/303a1 칸트가 말한 보편적 우호는 방문권으로부터.md"
+                "file": "관광객의 철학/304 사회를 만들고 마는 존재.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "e3133449228ffcc4",
   "lastOpenFiles": [
-    "관광객의 철학/303a2 관광객은 평화에 공헌하고 있다.md",
-    "관광객의 철학/303a1 칸트가 말한 보편적 우호는 방문권으로부터.md",
+    "관광객의 철학/303b 20세기 초 사회 이론의 해동.md",
+    "관광객의 철학/303a2 평화 공헌 효과.md",
+    "관광객의 철학/303a1 보편적 우호로서의 방문권.md",
     "관광객의 철학/303a 현대 사회의 공통 윤리.md",
     "관광객의 철학/303 20세기 인문 사상 전체의 적.md",
     "관광객의 철학/302a 상상력의 확장.md",
@@ -175,7 +176,6 @@
     "Templates/keywords.md",
     "Templates/독서노트.md",
     "Templates/강의 노트.md",
-    "관광객의 철학/304 관광객은 사회를 만들고 만다.md",
-    "관광객의 철학/『이미지의 시대』.md"
+    "관광객의 철학/304 사회를 만들고 마는 존재.md"
   ]
 }

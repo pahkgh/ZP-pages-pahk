@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad3f5e096a9eb250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광인류학의 이해/208  ‘낙원’ 하와이.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03e0655cb45942fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광인류학의 이해/무제 파일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광인류학의 이해/207 유사환경.md",
+                "file": "관광인류학의 이해/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광인류학의 이해/207 유사환경.md",
+                "file": "관광인류학의 이해/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광인류학의 이해/207 유사환경.md"
+                "file": "관광인류학의 이해/무제 파일.md"
               }
             }
           }
@@ -148,10 +175,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "29e0b8a3ff141fff",
+  "active": "03e0655cb45942fa",
   "lastOpenFiles": [
-    "학자/Lipmann, Walter (리프만).md",
+    "관광인류학의 이해/208  ‘낙원’ 하와이.md",
+    "관광인류학의 이해/무제 파일.md",
     "관광인류학의 이해/207 유사환경.md",
+    "학자/Lipmann, Walter (리프만).md",
     "리프만(W. Lipmann).md",
     "관광인류학의 이해/206 “’소멸의 이야기’에 대한 ‘생성의 이야기’”.md",
     "관광인류학의 이해/201a1 내면화한 이미지를 재확인.md",
@@ -173,8 +202,6 @@
     "관광객의 철학/315b1 근대 사회를 봉합하는 견학.md",
     "관광객의 철학/315b 오배(긍정적).md",
     "관광객의 철학/315 오배.md",
-    "관광객의 철학/315a 오배송 가능성.md",
-    "관광객의 철학/314b5 초월론의 두 사고 양식.md",
-    "관광객의 철학/314b4 우연한 소통.md"
+    "관광객의 철학/315a 오배송 가능성.md"
   ]
 }

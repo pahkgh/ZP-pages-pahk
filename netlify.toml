@@ -42,8 +42,8 @@ FOOTER = ""
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "me"
 COMMENTS_GISCUSS = ""
-EDIT_PAGE = "y"
-EDIT_PAGE_BUTTON_TEXT = "Change my mind!"
+EDIT_PAGE = ""
+EDIT_PAGE_BUTTON_TEXT = ""
 LOCAL_GRAPH = "y"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """

@@ -8,236 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29e0b8a3ff141fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/207 유사환경.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03e0655cb45942fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/208a 훌라춤의 이미지 착취.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45f0aaba5d024482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209 원조 테마파크, 디즈니랜드.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e47c9d960b5a78ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209a 지구상의 공통문화.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50ba14653500eeb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209b '시대착오적인 유원지'.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3cad4bac568b8fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209b1 디즈니랜드의 독창성.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14eb5f7e5c093692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209c '성지' 디즈니랜드.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a15024bb3d1e68d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209c '성지' 디즈니랜드.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b45ee83a4e8374d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209c2 순례의 분리 기제.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d57d7206e7ed8b6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209c2a 디즈니 머니와 일상 감각.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de05cb849d21ff85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209c3 고행 속의 대군중.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32d4c20b346717b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209d 관광 가이드북.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e774b47b0c0a9b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/209d 관광 가이드북.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c57bc60f0e49b6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/210 축제와 감시.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebb7ff93b75709a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/210a 방사형의 스펙타클.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a78a0abba8d1c242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/210b 성의 유혹.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "838d064c829fd143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광인류학의 이해/208 '낙원' 하와이.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "10f98839307b1b42",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "6ec65fb374ecd241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광인류학의 이해/209a3 분리가 아닌 탈진실.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -303,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "관광인류학의 이해/209a3 분리가 아닌 탈진실.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "관광인류학의 이해/209a3 분리가 아닌 탈진실.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "관광인류학의 이해/209a3 분리가 아닌 탈진실.md"
+              }
             }
           }
         ],
@@ -361,23 +159,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "10f98839307b1b42",
+  "active": "6ec65fb374ecd241",
   "lastOpenFiles": [
-    "관광인류학의 이해/211 타임머신으로서의 박물관.md",
-    "관광인류학의 이해/208 '낙원' 하와이.md",
-    "관광인류학의 이해/209 원조 테마파크, 디즈니랜드.md",
+    "관광인류학의 이해/209a2 진짜 이상의 가짜.md",
     "관광인류학의 이해/209a4 죽음과 공포를 넘어서.md",
-    "관광인류학의 이해/209b '시대착오적인 유원지'.md",
-    "관광인류학의 이해/209c1 미국의 유토피아.md",
     "관광인류학의 이해/210b 성의 유혹.md",
-    "관광객의 철학/305b1 관광객과 산책자의 출현.md",
+    "관광인류학의 이해/211 타임머신으로서의 박물관.md",
     "관광인류학의 이해/210a 방사형의 스펙타클.md",
     "관광인류학의 이해/210 축제와 감시.md",
+    "관광인류학의 이해/209d 관광 가이드북.md",
+    "관광인류학의 이해/209a3 분리가 아닌 탈진실.md",
+    "관광인류학의 이해/208 '낙원' 하와이.md",
+    "관광인류학의 이해/209 원조 테마파크, 디즈니랜드.md",
+    "관광인류학의 이해/209b '시대착오적인 유원지'.md",
+    "관광인류학의 이해/209c1 미국의 유토피아.md",
+    "관광객의 철학/305b1 관광객과 산책자의 출현.md",
     "관광인류학의 이해/209c3 고행 속의 대군중.md",
     "관광인류학의 이해/209c2a 디즈니 머니와 일상 감각.md",
     "관광인류학의 이해/209c2 순례의 분리 기제.md",
-    "관광인류학의 이해/209a3 분리가 아닌 탈진실.md",
-    "관광인류학의 이해/209a2 진짜 이상의 가짜.md",
     "관광인류학의 이해/209a3.md",
     "관광인류학의 이해/209a1 무에서 태어난 궁극의 관광지.md",
     "관광객의 철학/306a 관광에 대한 지적 경시.md",
@@ -385,7 +184,6 @@
     "관광객의 철학/312b 국민국가와 제국.md",
     "관광객의 철학/『내셔널리즘의 유래』.md",
     "학자/Foucault, Michel (푸코).md",
-    "관광인류학의 이해/209d 관광 가이드북.md",
     "관광인류학의 이해/209a 지구상의 공통문화.md",
     "관광인류학의 이해/209c '성지' 디즈니랜드.md",
     "관광인류학의 이해/207 유사환경.md"

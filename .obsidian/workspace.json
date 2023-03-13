@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/305b 불필요한 행위.md",
+                "file": "관광객의 철학/306a 관광에 대한 지적 경시.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/305b 불필요한 행위.md",
+                "file": "관광객의 철학/306a 관광에 대한 지적 경시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/305b 불필요한 행위.md",
+                "file": "관광객의 철학/306a 관광에 대한 지적 경시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/305b 불필요한 행위.md"
+                "file": "관광객의 철학/306a 관광에 대한 지적 경시.md"
               }
             }
           }
@@ -151,6 +151,9 @@
   },
   "active": "e3133449228ffcc4",
   "lastOpenFiles": [
+    "관광객의 철학/306 가짜 이벤트.md",
+    "관광객의 철학/305b1 관광객과 산책자.md",
+    "관광객의 철학/305b 불필요한 행위.md",
     "관광객의 철학/305a1 근대 이전의 여행.md",
     "관광객의 철학/305a 관광의 시대, 21세기.md",
     "관광객의 철학/304 사회를 만들고 마는 존재.md",
@@ -173,9 +176,6 @@
     "Templates/2개의 열.md",
     "관광객의 철학/『게임적 리얼리즘의 탄생』.md",
     "‘우디 페르소나’와 진정성 문제.md",
-    "무제 파일.md",
-    "관광객의 철학/『관광의 시선』.md",
-    "현대중국의사회와문화.md",
-    "Templates/annotiation.md"
+    "무제 파일.md"
   ]
 }

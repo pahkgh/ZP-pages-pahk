@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/304 사회를 만들고 마는 존재.md",
+                "file": "관광객의 철학/305b 불필요한 행위.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/304 사회를 만들고 마는 존재.md",
+                "file": "관광객의 철학/305b 불필요한 행위.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/304 사회를 만들고 마는 존재.md",
+                "file": "관광객의 철학/305b 불필요한 행위.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/304 사회를 만들고 마는 존재.md"
+                "file": "관광객의 철학/305b 불필요한 행위.md"
               }
             }
           }
@@ -151,6 +151,10 @@
   },
   "active": "e3133449228ffcc4",
   "lastOpenFiles": [
+    "관광객의 철학/305a1 근대 이전의 여행.md",
+    "관광객의 철학/305a 관광의 시대, 21세기.md",
+    "관광객의 철학/304 사회를 만들고 마는 존재.md",
+    "관광객의 철학/305 근대적 행위.md",
     "관광객의 철학/303b 20세기 초 사회 이론의 해동.md",
     "관광객의 철학/303a2 평화 공헌 효과.md",
     "관광객의 철학/303a1 보편적 우호로서의 방문권.md",
@@ -172,10 +176,6 @@
     "무제 파일.md",
     "관광객의 철학/『관광의 시선』.md",
     "현대중국의사회와문화.md",
-    "Templates/annotiation.md",
-    "Templates/keywords.md",
-    "Templates/독서노트.md",
-    "Templates/강의 노트.md",
-    "관광객의 철학/304 사회를 만들고 마는 존재.md"
+    "Templates/annotiation.md"
   ]
 }

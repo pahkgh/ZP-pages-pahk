@@ -23,19 +23,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광인류학의 이해/209a3 분리가 아닌 탈진실.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0399f5e9c73a79b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고.md",
                 "mode": "source",
                 "backlinks": true,
@@ -44,7 +31,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,16 +159,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b0399f5e9c73a79b",
+  "active": "6ec65fb374ecd241",
   "lastOpenFiles": [
-    "학자/류정아.md",
+    "관광인류학의 이해/209a3 분리가 아닌 탈진실.md",
+    "관광객의 철학/304 사회를 만들고 마는 존재.md",
     "‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고.md",
+    "학자/류정아.md",
     "Templates/서지 정보.md",
     "Templates/2개의 열.md",
     "Templates/Chaegscang.md",
     "‘우디 페르소나’와 진정성 문제.md",
     "관광인류학의 이해/‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고.md",
-    "관광인류학의 이해/209a3 분리가 아닌 탈진실.md",
     "관광인류학의 이해/209a2 진짜 이상의 가짜.md",
     "관광인류학의 이해/209a4 죽음과 공포를 넘어서.md",
     "관광인류학의 이해/210b 성의 유혹.md",
@@ -198,7 +186,6 @@
     "관광인류학의 이해/209c2a 디즈니 머니와 일상 감각.md",
     "관광인류학의 이해/209c2 순례의 분리 기제.md",
     "관광인류학의 이해/209a3.md",
-    "관광인류학의 이해/209a1 무에서 태어난 궁극의 관광지.md",
-    "관광객의 철학/306a 관광에 대한 지적 경시.md"
+    "관광인류학의 이해/209a1 무에서 태어난 궁극의 관광지.md"
   ]
 }

@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광인류학의 이해/209d.md",
+                "file": "관광인류학의 이해/209c2 순례의 분리 기제.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광인류학의 이해/209d1.md",
+                "file": "관광인류학의 이해/209c2a 디즈니 머니와 일상 감각.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광인류학의 이해/209d2.md",
+                "file": "관광인류학의 이해/209c3 고행 속의 대군중.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광인류학의 이해/209d.md",
+                "file": "관광인류학의 이해/209c2a 디즈니 머니와 일상 감각.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광인류학의 이해/209d.md",
+                "file": "관광인류학의 이해/209c2a 디즈니 머니와 일상 감각.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광인류학의 이해/209d.md",
+                "file": "관광인류학의 이해/209c2a 디즈니 머니와 일상 감각.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광인류학의 이해/209d.md"
+                "file": "관광인류학의 이해/209c2a 디즈니 머니와 일상 감각.md"
               }
             }
           }
@@ -294,11 +294,12 @@
   },
   "active": "32d4c20b346717b1",
   "lastOpenFiles": [
-    "관광인류학의 이해/209d1.md",
-    "관광인류학의 이해/210.md",
-    "관광인류학의 이해/209d2.md",
-    "관광인류학의 이해/209d.md",
+    "관광인류학의 이해/209c2 순례의 분리 기제.md",
     "관광인류학의 이해/209c1 미국의 유토피아.md",
+    "관광인류학의 이해/209c3 고행 속의 대군중.md",
+    "관광인류학의 이해/209c2a 디즈니 머니와 일상 감각.md",
+    "학자/(Gennep, Arnold van (반 게넵).md",
+    "관광인류학의 이해/210.md",
     "관광인류학의 이해/209c '성지' 디즈니랜드.md",
     "관광인류학의 이해/209b1 디즈니랜드의 독창성.md",
     "관광인류학의 이해/209b '시대착오적인 유원지'.md",
@@ -318,7 +319,6 @@
     "관광인류학의 이해/202 관광객과 인류학자의 선 긋기.md",
     "관광인류학의 이해/204 관광인류학의 필드.md",
     "관광인류학의 이해/203c 진정성의 추구.md",
-    "학자/Lipmann, Walter (리프만).md",
-    "리프만(W. Lipmann).md"
+    "학자/Lipmann, Walter (리프만).md"
   ]
 }

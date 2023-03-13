@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/서지 정보.md",
+                "file": "‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/서지 정보.md",
+                "file": "‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/서지 정보.md",
+                "file": "‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/서지 정보.md"
+                "file": "‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고.md"
               }
             }
           }
@@ -174,10 +174,11 @@
   },
   "active": "b0399f5e9c73a79b",
   "lastOpenFiles": [
-    "Templates/2개의 열.md",
+    "학자/류정아.md",
+    "‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고.md",
     "Templates/서지 정보.md",
+    "Templates/2개의 열.md",
     "Templates/Chaegscang.md",
-    "무제 파일.md",
     "‘우디 페르소나’와 진정성 문제.md",
     "관광인류학의 이해/‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고.md",
     "관광인류학의 이해/209a3 분리가 아닌 탈진실.md",
@@ -198,7 +199,6 @@
     "관광인류학의 이해/209c2 순례의 분리 기제.md",
     "관광인류학의 이해/209a3.md",
     "관광인류학의 이해/209a1 무에서 태어난 궁극의 관광지.md",
-    "관광객의 철학/306a 관광에 대한 지적 경시.md",
-    "관광인류학의 이해/209b1 디즈니랜드의 독창성.md"
+    "관광객의 철학/306a 관광에 대한 지적 경시.md"
   ]
 }

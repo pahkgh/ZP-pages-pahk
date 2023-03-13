@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "0b3ef1cb0329cac8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c2ccb002c169cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a66433299445320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "『관광객의 철학』/300 『관광객의 철학』.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43c415029441a399",
+    "type": "split",
+    "children": [
+      {
+        "id": "250a2f70a3506819",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef2512fff0fe548",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30f14fbf303a2c74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c7f73a21f5fb665",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "180cd9447e8a28e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "27275fc989e9759d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3b011bc23d5ac1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "『관광객의 철학』/300 『관광객의 철학』.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b1edd6c3f1ace72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "『관광객의 철학』/300 『관광객의 철학』.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c482b97b372da588",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13daa65162c7fb3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "『관광객의 철학』/300 『관광객의 철학』.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "9a66433299445320",
+  "lastOpenFiles": [
+    "home.md",
+    "『관광객의 철학』/301c 방법으로서의 관광객.md",
+    "『관광객의 철학』/300 『관광객의 철학』.md",
+    "『관광객의 철학』/『관광의 시선』.md"
+  ]
+}

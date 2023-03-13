@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/314b1 우편적 다중.md",
+                "file": "관광객의 철학/314b4 관광객의 소통은 우연에 열려 있다.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#관광지",
+                "query": "tag:#친구/적",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/314b1 우편적 다중.md",
+                "file": "관광객의 철학/314b4 관광객의 소통은 우연에 열려 있다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/314b1 우편적 다중.md",
+                "file": "관광객의 철학/314b4 관광객의 소통은 우연에 열려 있다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/314b1 우편적 다중.md"
+                "file": "관광객의 철학/314b4 관광객의 소통은 우연에 열려 있다.md"
               }
             }
           }
@@ -149,9 +150,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e3133449228ffcc4",
+  "active": "30f14fbf303a2c74",
   "lastOpenFiles": [
-    "관광객의 철학/314b 아즈마 히로키의 관광객.md",
+    "관광객의 철학/314b3 우편화는 부정신학화의 역함수.md",
+    "관광객의 철학/314b2 변증법 바깥의 존재.md",
+    "관광객의 철학/314b 아즈마 히로키의 관광객론.md",
     "관광객의 철학/314b1 우편적 다중.md",
     "관광객의 철학/301 방법으로서의 관광객.md",
     "관광객의 철학/301a 마을사람, 나그네, 관광객.md",
@@ -174,8 +177,6 @@
     "관광객의 철학/305b1 관광객과 산책자.md",
     "관광객의 철학/306 가짜 이벤트.md",
     "관광객의 철학/306a 관광에 대한 지적 경시.md",
-    "관광객의 철학/307 역동성의 단점 부각.md",
-    "관광객의 철학/307a 관광 산업과 비례하는 테러 위험성.md",
-    "관광객의 철학/308 자의적인 관광지 해석.md"
+    "관광객의 철학/307 역동성의 단점 부각.md"
   ]
 }

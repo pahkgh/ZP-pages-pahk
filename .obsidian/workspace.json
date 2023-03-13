@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/314b4 관광객의 소통은 우연에 열려 있다.md",
+                "file": "관광객의 철학/314c 오배.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/314b4 관광객의 소통은 우연에 열려 있다.md",
+                "file": "관광객의 철학/314c 오배.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/314b4 관광객의 소통은 우연에 열려 있다.md",
+                "file": "관광객의 철학/314c 오배.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/314b4 관광객의 소통은 우연에 열려 있다.md"
+                "file": "관광객의 철학/314c 오배.md"
               }
             }
           }
@@ -150,8 +149,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "30f14fbf303a2c74",
+  "active": "e3133449228ffcc4",
   "lastOpenFiles": [
+    "관광객의 철학/314b4 우연한 소통.md",
     "관광객의 철학/314b3 우편화는 부정신학화의 역함수.md",
     "관광객의 철학/314b2 변증법 바깥의 존재.md",
     "관광객의 철학/314b 아즈마 히로키의 관광객론.md",
@@ -176,7 +176,6 @@
     "관광객의 철학/305b 불필요한 행위.md",
     "관광객의 철학/305b1 관광객과 산책자.md",
     "관광객의 철학/306 가짜 이벤트.md",
-    "관광객의 철학/306a 관광에 대한 지적 경시.md",
-    "관광객의 철학/307 역동성의 단점 부각.md"
+    "관광객의 철학/306a 관광에 대한 지적 경시.md"
   ]
 }

@@ -17,8 +17,8 @@
     ],
     "sourceExclusionPattern": [],
     "listLimit": 0,
-    "variant": "ROWS",
-    "fontSize": 13,
+    "variant": "CENTER_ALIGNED",
+    "fontSize": 10,
     "entryHeaderVisible": true,
     "influxAtTopOfPage": false,
     "hideInfluxWhileTyping": true

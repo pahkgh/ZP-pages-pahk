@@ -2,5 +2,9 @@
   "influx",
   "multi-column-markdown",
   "cmenu-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-copy-block-link",
+  "obsidian-drag-n-drop-plugin",
+  "highlightr-plugin",
+  "obsidian-admonition"
 ]

@@ -8,19 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a66433299445320",
+            "id": "42f9434933ebe88d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/독서노트.md",
-                "mode": "source",
+                "file": "‘우디 페르소나’와 진정성 문제.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/독서노트.md",
+                "file": "‘우디 페르소나’와 진정성 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/독서노트.md",
+                "file": "‘우디 페르소나’와 진정성 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/독서노트.md"
+                "file": "‘우디 페르소나’와 진정성 문제.md"
               }
             }
           }
@@ -147,10 +148,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9a66433299445320",
+  "active": "42f9434933ebe88d",
   "lastOpenFiles": [
-    "Templates/강의 노트.md",
+    "무제 파일.md",
+    "‘우디 페르소나’와 진정성 문제.md",
     "Templates/독서노트.md",
+    "Templates/강의 노트.md",
     "『관광객의 철학』/301 관광객 = 새로운 타자.md",
     "『관광객의 철학』/300 『관광객의 철학』.md",
     "『관광객의 철학』/301a 속하면서 때때로 다른 공동체에도 들르는.md",

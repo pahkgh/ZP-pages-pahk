@@ -117,7 +117,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광인류학의 이해/209c '성지' 디즈니랜드.md",
+                "file": "관광인류학의 이해/209d.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d57d7206e7ed8b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광인류학의 이해/209d1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de05cb849d21ff85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광인류학의 이해/209d1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -191,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광인류학의 이해/209c '성지' 디즈니랜드.md",
+                "file": "관광인류학의 이해/209d1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광인류학의 이해/209c '성지' 디즈니랜드.md",
+                "file": "관광인류학의 이해/209d1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광인류학의 이해/209c '성지' 디즈니랜드.md"
+                "file": "관광인류학의 이해/209d1.md"
               }
             }
           }
@@ -253,11 +279,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8b45ee83a4e8374d",
+  "active": "de05cb849d21ff85",
   "lastOpenFiles": [
+    "관광인류학의 이해/209d2.md",
+    "관광인류학의 이해/209d1.md",
+    "관광인류학의 이해/209d.md",
     "관광인류학의 이해/209c1 미국의 유토피아.md",
     "관광인류학의 이해/209c '성지' 디즈니랜드.md",
-    "관광인류학의 이해/무제 파일 1.md",
     "관광인류학의 이해/209b1 디즈니랜드의 독창성.md",
     "관광인류학의 이해/209b '시대착오적인 유원지'.md",
     "관광인류학의 이해/209a 지구상의 공통문화.md",
@@ -278,7 +306,6 @@
     "관광인류학의 이해/203c 진정성의 추구.md",
     "학자/Lipmann, Walter (리프만).md",
     "리프만(W. Lipmann).md",
-    "관광인류학의 이해/203 진짜 추구.md",
-    "관광인류학의 이해/203a 관광은 일상과 떨어지는 것.md",
-    "관광객의 철학/305b1 관광객과 산책자의 출현.md"
- 
+    "관광인류학의 이해/203 진짜 추구.md"
+  ]
+}

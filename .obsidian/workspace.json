@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2ccb002c169cf7",
+        "id": "5a7e863b39f6606e",
         "type": "tabs",
         "children": [
           {
-            "id": "e9bcdc76ee94af4d",
+            "id": "e3133449228ffcc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "타자",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,9 +149,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e9bcdc76ee94af4d",
+  "active": "e3133449228ffcc4",
   "lastOpenFiles": [
     "『관광객의 철학』/300 『관광객의 철학』.md",
+    "『관광객의 철학』/301 관광객 = 새로운 타자.md",
     "『관광객의 철학』/302 문학적 사유가 정치 사상에 필요하다.md",
     "『관광객의 철학』/『관광의 시선』.md",
     "『관광객의 철학』/『게임적 리얼리즘의 탄생』.md",
@@ -164,7 +165,6 @@
     "무제 파일.md",
     "Templates/독서노트.md",
     "Templates/강의 노트.md",
-    "『관광객의 철학』/301 관광객 = 새로운 타자.md",
     "『관광객의 철학』/301a 속하면서 때때로 다른 공동체에도 들르는.md",
     "『관광객의 철학』/301b 상업적, 즉물적, 세속적.md",
     "『관광객의 철학』/304 관광객은 사회를 만들고 만다.md",

@@ -3,14 +3,16 @@
     "liveUpdate": true,
     "sortingPrinciple": "NEWEST_FIRST",
     "sortingAttribute": "ctime",
-    "showBehaviour": "OPT_OUT",
+    "showBehaviour": "OPT_IN",
     "exclusionPattern": [
       ""
     ],
     "inclusionPattern": [
       ""
     ],
-    "collapsedPattern": [],
+    "collapsedPattern": [
+      "301 관광객 = 새로운 타자"
+    ],
     "sourceBehaviour": "OPT_OUT",
     "sourceInclusionPattern": [
       ""

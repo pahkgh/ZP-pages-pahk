@@ -52,5 +52,23 @@
       ],
       "key": "Y"
     }
+  ],
+  "multi-column-markdown:insert-multi-column-region": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "multi-column-markdown:toggle-mobile-rendering-mcm": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Y"
+    }
   ]
 }

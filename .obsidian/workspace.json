@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/301a 속하면서 때때로 다른 공동체에도 들르는.md",
+                "file": "관광객의 철학/301a 마을사람, 나그네, 관광객.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/301a 속하면서 때때로 다른 공동체에도 들르는.md",
+                "file": "관광객의 철학/301a 마을사람, 나그네, 관광객.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/301a 속하면서 때때로 다른 공동체에도 들르는.md",
+                "file": "관광객의 철학/301a 마을사람, 나그네, 관광객.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/301a 속하면서 때때로 다른 공동체에도 들르는.md"
+                "file": "관광객의 철학/301a 마을사람, 나그네, 관광객.md"
               }
             }
           }
@@ -151,7 +151,12 @@
   },
   "active": "e3133449228ffcc4",
   "lastOpenFiles": [
-    "관광객의 철학/301 관광객 = 새로운 타자.md",
+    "관광객의 철학/301 방법으로서의 관광객.md",
+    "관광객의 철학/301c 새로운 타자의 철학.md",
+    "관광객의 철학/301b1 관광객의 동기.md",
+    "관광객의 철학/301b 상업적, 즉물적, 세속적.md",
+    "관광객의 철학/301a 마을사람, 나그네, 관광객.md",
+    "관광객의 철학/302 문학적 사유가 정치 사상에 필요하다.md",
     "관광객의 철학/300 『관광객의 철학』.md",
     "Templates/Chaegscang.md",
     "Templates/서지 정보.md",
@@ -159,19 +164,15 @@
     "관광객의 철학/『게임적 리얼리즘의 탄생』.md",
     "‘우디 페르소나’와 진정성 문제.md",
     "무제 파일.md",
-    "관광객의 철학/301a 속하면서 때때로 다른 공동체에도 들르는.md",
-    "관광객의 철학/302 문학적 사유가 정치 사상에 필요하다.md",
     "관광객의 철학/『관광의 시선』.md",
     "현대중국의사회와문화.md",
     "Templates/annotiation.md",
     "Templates/keywords.md",
     "Templates/독서노트.md",
     "Templates/강의 노트.md",
-    "관광객의 철학/301b 상업적, 즉물적, 세속적.md",
     "관광객의 철학/304 관광객은 사회를 만들고 만다.md",
     "관광객의 철학/『이미지의 시대』.md",
     "관광객의 철학/313 공동체주의는 변증법의 시대 붕괴에 대응하는 현상이다.md",
-    "home.md",
-    "관광객의 철학/301c 방법으로서의 관광객.md"
+    "home.md"
   ]
 }

@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광인류학의 이해/무제 파일.md",
+                "file": "관광인류학의 이해/208a 훌라춤의 이미지 착취.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45f0aaba5d024482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광인류학의 이해/209 디즈니랜드.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e47c9d960b5a78ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광인류학의 이해/209a 지구상의 공통문화.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광인류학의 이해/무제 파일.md",
+                "file": "관광인류학의 이해/209a 지구상의 공통문화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광인류학의 이해/무제 파일.md",
+                "file": "관광인류학의 이해/209a 지구상의 공통문화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광인류학의 이해/무제 파일.md"
+                "file": "관광인류학의 이해/209a 지구상의 공통문화.md"
               }
             }
           }
@@ -162,10 +188,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "03e0655cb45942fa",
+  "active": "e47c9d960b5a78ff",
   "lastOpenFiles": [
+    "관광인류학의 이해/209 디즈니랜드.md",
+    "관광인류학의 이해/209a 지구상의 공통문화.md",
+    "관광인류학의 이해/208a 훌라춤의 이미지 착취.md",
     "관광인류학의 이해/208 '낙원' 하와이.md",
-    "관광인류학의 이해/무제 파일.md",
     "관광인류학의 이해/207 유사환경.md",
     "관광인류학의 이해/207a.md",
     "관광인류학의 이해/201a1 내면화한 이미지를 재확인.md",
@@ -187,8 +215,6 @@
     "관광객의 철학/301 방법으로서의 관광객.md",
     "관광객의 철학/315b2 계몽 효과.md",
     "관광객의 철학/무제 파일 198.md",
-    "관광객의 철학/315b1 근대 사회를 봉합하는 견학.md",
-    "관광객의 철학/315b 오배(긍정적).md",
-    "관광객의 철학/315 오배.md"
+    "관광객의 철학/315b1 근대 사회를 봉합하는 견학.md"
   ]
 }

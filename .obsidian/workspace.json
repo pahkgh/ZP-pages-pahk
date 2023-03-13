@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +149,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "13daa65162c7fb3e",
+  "active": "42f9434933ebe88d",
   "lastOpenFiles": [
     "무제 파일.md",
     "‘우디 페르소나’와 진정성 문제.md",

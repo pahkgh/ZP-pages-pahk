@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "320b0aa70f2c6d2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YONSEI/곁003 문학환경.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55a344345f7ec661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YONSEI/곁002 SF와 현실.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YONSEI/곁003 문학환경.md",
+                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YONSEI/곁003 문학환경.md",
+                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YONSEI/곁003 문학환경.md"
+                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md"
               }
             }
           }
@@ -163,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +148,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "320b0aa70f2c6d2b",
+  "active": "df5e411386bde42d",
   "lastOpenFiles": [
-    "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
     "YONSEI/곁003 문학환경.md",
+    "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
     "YONSEI/곁002 SF와 현실.md",
     "YONSEI/곁001 문학의 민족적 성격.md",
     "YONSEI/곁006b 시인은 개연적인 것을 논하므로 공동의 문제를 다룰 수 있다.md",

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "관광객의 철학/302b 진지함과 경박함의 이항 대립.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
-                "mode": "preview",
+                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
+                "file": "관광객의 철학/302b 진지함과 경박함의 이항 대립.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
+                "file": "관광객의 철학/302b 진지함과 경박함의 이항 대립.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md"
+                "file": "관광객의 철학/302b 진지함과 경박함의 이항 대립.md"
               }
             }
           }
@@ -163,8 +162,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a43b27acce16ad0d",
+  "active": "df5e411386bde42d",
   "lastOpenFiles": [
+    "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
     "관광객의 철학/302b 진지함과 경박함의 이항 대립.md",
     "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
     "302b  ^40bmzo진지함과 경박함의 이항 대립.md",
@@ -179,7 +179,6 @@
     "설법하는 고양이와 부처가 된 로봇/402 '공'.md",
     "설법하는 고양이와 부처가 된 로봇/401 경이에서 정신병으로.md",
     "설법하는 고양이와 부처가 된 로봇/400 『설법하는 고양이와 부처가 된 로봇』.md",
-    "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
     "관광객의 철학/301b1 관광객의 동기.md",
     "YONSEI/곁005a 소설의 어원은 '모습을 취하다', '상상하다'.md",
     "YONSEI/곁006a  역사는 특수, 시(허구)는 보편.md",

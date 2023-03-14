@@ -8,35 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10f98839307b1b42",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "ebe791df9128bdea",
+            "id": "1c929a64bb769a54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95501b75348f560d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광객의 철학/301b1 관광객의 동기.md",
+                "file": "설법하는 고양이와 부처가 된 로봇/401 경이에서 정신병으로.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+                "file": "설법하는 고양이와 부처가 된 로봇/401 경이에서 정신병으로.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+                "file": "설법하는 고양이와 부처가 된 로봇/401 경이에서 정신병으로.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md"
+                "file": "설법하는 고양이와 부처가 된 로봇/401 경이에서 정신병으로.md"
               }
             }
           }
@@ -173,10 +149,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ebe791df9128bdea",
+  "active": "1c929a64bb769a54",
   "lastOpenFiles": [
-    "관광객의 철학/301b1 관광객의 동기.md",
+    "설법하는 고양이와 부처가 된 로봇/401 경이에서 정신병으로.md",
+    "설법하는 고양이와 부처가 된 로봇/400 『설법하는 고양이와 부처가 된 로봇』.md",
     "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+    "관광객의 철학/301b1 관광객의 동기.md",
     "YONSEI/곁005a 소설의 어원은 '모습을 취하다', '상상하다'.md",
     "YONSEI/곁006a  역사는 특수, 시(허구)는 보편.md",
     "학자/아리스토텔레스.md",
@@ -203,8 +181,6 @@
     "YONSEI/곁012 문자와 카메라 ~.md",
     "YONSEI/곁011 문학의 기능.md",
     "YONSEI/곁010 알파고이세돌ai.md",
-    "YONSEI/곁007 허구의 인간학적 기원.md",
-    "YONSEI/곁009 감성과 이성.md",
     "YONSEI",
     "연세대학교"
   ]

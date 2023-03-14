@@ -1,0 +1,6 @@
+{
+  "simple_same_pane": "embed",
+  "simple_different_panes": "embed",
+  "shift": "copy",
+  "alt": "move"
+}

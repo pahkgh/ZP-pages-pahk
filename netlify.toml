@@ -49,7 +49,7 @@ LOCAL_GRAPH = "y"
 GRAPH_OPTIONS = """
         {
         	nodes: {
-        		shape: "dot",
+        		shape: "box",
         		color: isDark() ? "#8c8e91" : "#dee2e6",
         		font: {
         			face: "Inter",

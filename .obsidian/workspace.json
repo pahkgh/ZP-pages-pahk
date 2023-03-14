@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c929a64bb769a54",
+            "id": "df5e411386bde42d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "설법하는 고양이와 부처가 된 로봇/403a 물결을 타고 살며 편안할 수 있는 능력.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "설법하는 고양이와 부처가 된 로봇/403a 물결을 타고 살며 편안할 수 있는 능력.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "설법하는 고양이와 부처가 된 로봇/403a 물결을 타고 살며 편안할 수 있는 능력.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "설법하는 고양이와 부처가 된 로봇/403a 물결을 타고 살며 편안할 수 있는 능력.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -149,8 +149,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1c929a64bb769a54",
+  "active": "df5e411386bde42d",
   "lastOpenFiles": [
+    "「‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고」.md",
+    "무제 파일.md",
+    "설법하는 고양이와 부처가 된 로봇/403a 물결을 타고 살며 편안할 수 있는 능력.md",
     "설법하는 고양이와 부처가 된 로봇/403 평상심.md",
     "설법하는 고양이와 부처가 된 로봇/402b2 상황의존성.md",
     "설법하는 고양이와 부처가 된 로봇/402b1 '불법 그 자체' vs 활구.md",
@@ -178,9 +181,6 @@
     "YONSEI/곁003b.md",
     "YONSEI/곁001a 장르문학은 민족적 성격보다 장르적 성격이 더 강하다.md",
     "YONSEI/곁001 문학은 언어에 의존하므로 민족적 성격을 띤다.md",
-    "YONSEI/곁003a.md",
-    "YONSEI/곁003.md",
-    "YONSEI/곁002a.md",
     "YONSEI",
     "연세대학교"
   ]

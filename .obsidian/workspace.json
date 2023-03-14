@@ -29,9 +29,23 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95501b75348f560d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광객의 철학/301b1 관광객의 동기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+                "file": "관광객의 철학/301b1 관광객의 동기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+                "file": "관광객의 철학/301b1 관광객의 동기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md"
+                "file": "관광객의 철학/301b1 관광객의 동기.md"
               }
             }
           }
@@ -159,11 +173,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ebe791df9128bdea",
+  "active": "95501b75348f560d",
   "lastOpenFiles": [
-    "학자/아리스토텔레스.md",
     "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
     "YONSEI/곁005a 소설의 어원은 '모습을 취하다', '상상하다'.md",
+    "관광객의 철학/301b1 관광객의 동기.md",
+    "YONSEI/곁006a  역사는 특수, 시(허구)는 보편.md",
+    "학자/아리스토텔레스.md",
     "YONSEI/곁006 진실은 허구보다 더 낯설다..md",
     "YONSEI/곁005c '소설같다'는 사실에 대한 경탄.md",
     "YONSEI/Pasted image 20230228162517.png",
@@ -189,8 +205,6 @@
     "YONSEI/곁010 알파고이세돌ai.md",
     "YONSEI/곁007 허구의 인간학적 기원.md",
     "YONSEI/곁009 감성과 이성.md",
-    "YONSEI/곁006a  역사는 특수, 시(허구)는 보편.md",
-    "YONSEI/곁006b 시인은 개연적인 것을 논하므로 공동의 문제를 다룰 수 있다.md",
     "YONSEI",
     "연세대학교"
   ]

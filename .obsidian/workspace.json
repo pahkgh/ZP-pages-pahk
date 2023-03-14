@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YONSEI/도001 도시인류학.md",
+                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "320b0aa70f2c6d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YONSEI/곁003 문학환경.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55a344345f7ec661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YONSEI/곁002 SF와 현실.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -87,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YONSEI/도001 도시인류학.md",
+                "file": "YONSEI/곁003 문학환경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YONSEI/도001 도시인류학.md",
+                "file": "YONSEI/곁003 문학환경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YONSEI/도001 도시인류학.md"
+                "file": "YONSEI/곁003 문학환경.md"
               }
             }
           }
@@ -149,11 +176,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "df5e411386bde42d",
+  "active": "320b0aa70f2c6d2b",
   "lastOpenFiles": [
     "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
-    "관광인류학의 이해/210 축제와 감시.md",
+    "YONSEI/곁003 문학환경.md",
+    "YONSEI/곁002 SF와 현실.md",
+    "YONSEI/곁001 문학의 민족적 성격.md",
+    "YONSEI/곁006b 시인은 개연적인 것을 논하므로 공동의 문제를 다룰 수 있다.md",
     "YONSEI/도001 도시인류학.md",
+    "관광인류학의 이해/210 축제와 감시.md",
     "YONSEI/도000 도시인류학.md",
     "YONSEI/곁006a1 줄거리는 그럴 듯한 한편 그것을 넘어 놀라움도 동반해야.md",
     "‘우디 페르소나’와 진정성 문제.md",
@@ -174,10 +205,6 @@
     "설법하는 고양이와 부처가 된 로봇/402b1 '불법 그 자체' vs 활구.md",
     "설법하는 고양이와 부처가 된 로봇/402b 언어화와 개념화, 사구화.md",
     "설법하는 고양이와 부처가 된 로봇/402a '본성 없음'의 역설.md",
-    "설법하는 고양이와 부처가 된 로봇/402 '공'.md",
-    "설법하는 고양이와 부처가 된 로봇/401 경이에서 정신병으로.md",
-    "설법하는 고양이와 부처가 된 로봇/400 『설법하는 고양이와 부처가 된 로봇』.md",
-    "관광객의 철학/301b1 관광객의 동기.md",
     "관광객의 철학/Pasted image 20230223222126.png",
     "images/Pasted image 20230228173704.png",
     "images/Pasted image 20230228173717.png",

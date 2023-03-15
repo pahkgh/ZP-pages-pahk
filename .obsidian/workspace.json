@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "재연",
+                "query": "만날 일",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,15 +199,18 @@
   },
   "active": "a0b562fdce5357f5",
   "lastOpenFiles": [
+    "관광객의 철학/308a 오해가 만드는 효과.md",
+    "관광객의 철학/315b 오배(긍정적).md",
+    "관광객의 철학/무제 파일.md",
+    "관광인류학의 이해/203a 관광은 일상과 떨어지는 것.md",
+    "관광객의 철학/308 자의적인 관광지 해석.md",
     "관광객의 철학/316e1 신화를 쓰는 이유.md",
     "관광객의 철학/316e 사회 '신화'.md",
     "관광객의 철학/316d1 리좀의 애매모호함.md",
     "관광객의 철학/316b2 바꿔 연결하는 지름길.md",
-    "관광객의 철학/무제 파일.md",
     "관광객의 철학/312d 비판적 지식인.md",
     "관광객의 철학/316 네트워크 이론.md",
     "관광객의 철학/315a '우편적'의 진의.md",
-    "관광객의 철학/315b 오배(긍정적).md",
     "관광객의 철학/316a 큰 클러스터 계수.md",
     "관광객의 철학/Pasted image 20230223222126.png",
     "관광객의 철학/303 20세기 인문 사상 전체의 적.md",
@@ -222,9 +226,6 @@
     "관광객의 철학/316b3 인간 사회의 역동성.md",
     "관광객의 철학/316b1 '세상 좁다'의 모순.md",
     "관광객의 철학/316b 작은 평균 거리.md",
-    "학자/Rousseau, Jean-Jacques (루소).md",
-    "학자/Hobbes, Thomas (홉스).md",
-    "학자/Deleuze, Gilles (들뢰즈).md",
     "YONSEI/Pasted image 20230228162517.png",
     "images/Pasted image 20230228173704.png",
     "images/Pasted image 20230228173717.png",

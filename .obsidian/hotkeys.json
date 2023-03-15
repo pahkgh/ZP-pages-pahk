@@ -70,5 +70,13 @@
       ],
       "key": "6"
     }
+  ],
+  "obsidian-wikipedia:wikipedia-get-search-term": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }

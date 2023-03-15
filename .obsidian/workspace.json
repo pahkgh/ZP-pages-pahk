@@ -8,55 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "610c5ffda9221710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0d209f1b45a1d93a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c014bcf225ee4738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29356eac07d3e4da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -126,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -188,13 +140,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "610c5ffda9221710",
+  "active": "cef2512fff0fe548",
   "lastOpenFiles": [
-    "YONSEI/곁006 서양 미학의 첫머리.md",
+    "YONSEI/곁006 필연과 개연.md",
+    "YONSEI/곁0067.md",
+    "YONSEI/곁007 허구의 인간학적 기원.md",
+    "YONSEI/곁006a1 줄거리는 그럴 듯한 한편 그것을 넘어 놀라움도 동반해야.md",
+    "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
     "YONSEI/곁005 소설.md",
     "YONSEI/곁004 곁사슬 문학.md",
     "YONSEI/도000 도시인류학.md",
-    "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
     "관광객의 철학/317 재오배로 시작되는 저항.canvas",
     "관광객의 철학/곁005 소설.md",
     "YONSEI/곁001 문학의 민족적 성격.md",
@@ -217,9 +172,6 @@
     "관광객의 철학/316e 사회 '신화'.md",
     "관광인류학의 이해/205a 지구 규모의 거시인류학.md",
     "209 원조 테마파크, 디즈니랜드-0.canvas",
-    "관광인류학의 이해/209 원조 테마파크, 디즈니랜드.md",
-    "관광인류학의 이해/209a 지구상의 공통문화.md",
-    "관광인류학의 이해/209a1 무에서 태어난 궁극의 관광지.md",
     "관광객의 철학/Pasted image 20230223222126.png",
     "YONSEI/Pasted image 20230228162517.png",
     "images/Pasted image 20230228173704.png",

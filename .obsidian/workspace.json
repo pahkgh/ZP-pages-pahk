@@ -53,9 +53,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "337700355d23d36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광객의 철학/316 네트워크 이론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,10 +195,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6112e6a6cff4ed8d",
+  "active": "337700355d23d36d",
   "lastOpenFiles": [
-    "관광객의 철학/무제 파일 198.md",
+    "관광객의 철학/316a 복잡계 네트워크의 특징.md",
     "관광객의 철학/316 네트워크 이론.md",
+    "관광객의 철학/무제 파일 198.md",
     "관광객의 철학/312 21세기의 2층 구조.md",
     "관광객의 철학/Pasted image 20230223222126.png",
     "관광인류학의 이해/209b1 디즈니랜드의 독창성.md",
@@ -211,7 +225,6 @@
     "YONSEI/Pasted image 20230228162517.png",
     "관광객의 철학/302b 진지함과 경박함의 이항 대립.md",
     "설법하는 고양이와 부처가 된 로봇/403a 물결을 타고 살며 편안할 수 있는 능력.md",
-    "설법하는 고양이와 부처가 된 로봇/403 평상심.md",
     "images/Pasted image 20230228173704.png",
     "images/Pasted image 20230228173717.png",
     "YONSEI",

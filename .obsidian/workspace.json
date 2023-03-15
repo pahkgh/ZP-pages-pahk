@@ -13,15 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+                "file": "관광인류학의 이해/209b1 디즈니랜드의 독창성.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "1398ce92e13a560a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6119a8374a486a93",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#관광",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,10 +161,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "df5e411386bde42d",
+  "active": "30f14fbf303a2c74",
   "lastOpenFiles": [
-    "YONSEI/곁003 문학환경.md",
+    "관광인류학의 이해/209b1 디즈니랜드의 독창성.md",
     "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+    "YONSEI/곁003 문학환경.md",
     "YONSEI/곁002 SF와 현실.md",
     "YONSEI/곁001 문학의 민족적 성격.md",
     "YONSEI/곁006b 시인은 개연적인 것을 논하므로 공동의 문제를 다룰 수 있다.md",
@@ -176,7 +190,6 @@
     "설법하는 고양이와 부처가 된 로봇/402b2 상황의존성.md",
     "설법하는 고양이와 부처가 된 로봇/402b1 '불법 그 자체' vs 활구.md",
     "설법하는 고양이와 부처가 된 로봇/402b 언어화와 개념화, 사구화.md",
-    "설법하는 고양이와 부처가 된 로봇/402a '본성 없음'의 역설.md",
     "관광객의 철학/Pasted image 20230223222126.png",
     "images/Pasted image 20230228173704.png",
     "images/Pasted image 20230228173717.png",

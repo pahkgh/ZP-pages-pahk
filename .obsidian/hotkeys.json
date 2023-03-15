@@ -78,5 +78,14 @@
       ],
       "key": "W"
     }
+  ],
+  "link-exploder:link-exploder-canvas-builder": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }

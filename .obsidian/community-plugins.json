@@ -6,10 +6,10 @@
   "obsidian-drag-n-drop-plugin",
   "highlightr-plugin",
   "obsidian-admonition",
-  "dataview",
   "obsidian-imgur-plugin",
   "obsidian-image-toolkit",
   "obsidian-link-embed",
   "obsidian-footnotes",
-  "obsidian-wikipedia"
+  "obsidian-wikipedia",
+  "link-exploder"
 ]

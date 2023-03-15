@@ -11,14 +11,25 @@
             "id": "610c5ffda9221710",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "관광객의 철학/317 재오배로 시작되는 저항.canvas",
-                "viewState": {
-                  "x": 1250,
-                  "y": 5050,
-                  "zoom": -3.4926649218200567
-                }
+                "file": "YONSEI/곁005 소설.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d209f1b45a1d93a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -28,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/20.md",
+                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29356eac07d3e4da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/20.md",
+                "file": "YONSEI/곁005 소설.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/20.md",
+                "file": "YONSEI/곁005 소설.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/20.md"
+                "file": "YONSEI/곁005 소설.md"
               }
             }
           }
@@ -164,10 +188,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c014bcf225ee4738",
+  "active": "610c5ffda9221710",
   "lastOpenFiles": [
+    "YONSEI/곁004 곁사슬 문학.md",
+    "YONSEI/곁006 서양 미학의 첫머리.md",
+    "YONSEI/도000 도시인류학.md",
+    "YONSEI/곁005 소설.md",
+    "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
     "관광객의 철학/317 재오배로 시작되는 저항.canvas",
-    "관광객의 철학/20.md",
+    "관광객의 철학/곁005 소설.md",
+    "YONSEI/곁001 문학의 민족적 성격.md",
+    "YONSEI/곁003 문학환경.md",
+    "YONSEI/곁002 SF와 현실.md",
+    "‘우디 페르소나’와 진정성 문제.md",
+    "관광객의 철학/무제파일 204 로티에 따르면,,,,.md",
     "학자/바슐라르.md",
     "학자/류정아.md",
     "학자/라이프니츠.md",
@@ -186,15 +220,6 @@
     "관광인류학의 이해/209 원조 테마파크, 디즈니랜드.md",
     "관광인류학의 이해/209a 지구상의 공통문화.md",
     "관광인류학의 이해/209a1 무에서 태어난 궁극의 관광지.md",
-    "관광인류학의 이해/209b '시대착오적인 유원지'.md",
-    "학자/Foucault, Michel (푸코).md",
-    "관광객의 철학/317 재오배로 시작되는 저항.md",
-    "학자/Boorstin, Daniel (부어스틴).md",
-    "학자/Gennep, Arnold van (반 게넵).md",
-    "관광객의 철학/308a 오해가 만드는 효과.md",
-    "관광객의 철학/315b 오배(긍정적).md",
-    "관광인류학의 이해/203a 관광은 일상과 떨어지는 것.md",
-    "관광객의 철학/308 자의적인 관광지 해석.md",
     "관광객의 철학/Pasted image 20230223222126.png",
     "YONSEI/Pasted image 20230228162517.png",
     "images/Pasted image 20230228173704.png",

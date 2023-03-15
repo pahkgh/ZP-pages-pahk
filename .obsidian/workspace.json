@@ -190,7 +190,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/316c1.md",
+                "file": "관광객의 철학/316c1 인터넷의 배신.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6ac7bc3034e8f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광객의 철학/316c2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -198,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -264,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/316c1.md",
+                "file": "관광객의 철학/316c2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/316c1.md",
+                "file": "관광객의 철학/316c2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/316c1.md"
+                "file": "관광객의 철학/316c2.md"
               }
             }
           }
@@ -325,10 +338,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "669bfb5e66b5f6b5",
+  "active": "f6ac7bc3034e8f7a",
   "lastOpenFiles": [
+    "관광객의 철학/316c1 인터넷의 배신.md",
+    "관광객의 철학/316c2.md",
     "관광객의 철학/316c 무척도.md",
-    "관광객의 철학/316c1.md",
     "관광객의 철학/316b3 인간 사회의 역동성.md",
     "관광객의 철학/316b2 지름길.md",
     "관광객의 철학/316b1 '세상 좁다'의 모순.md",
@@ -353,7 +367,6 @@
     "관광인류학의 이해/210 축제와 감시.md",
     "YONSEI/도000 도시인류학.md",
     "YONSEI/곁006a1 줄거리는 그럴 듯한 한편 그것을 넘어 놀라움도 동반해야.md",
-    "‘우디 페르소나’와 진정성 문제.md",
     "YONSEI/Pasted image 20230228162517.png",
     "images/Pasted image 20230228173704.png",
     "images/Pasted image 20230228173717.png",

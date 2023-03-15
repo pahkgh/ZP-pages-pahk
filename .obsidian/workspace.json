@@ -131,9 +131,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2e919c6038f1412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광객의 철학/136b1 지름길.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/316b 작은 평균 거리.md",
+                "file": "관광객의 철학/136b1 지름길.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/316b 작은 평균 거리.md",
+                "file": "관광객의 철학/136b1 지름길.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/316b 작은 평균 거리.md"
+                "file": "관광객의 철학/136b1 지름길.md"
               }
             }
           }
@@ -260,13 +273,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8ed05ba4349ba849",
+  "active": "b2e919c6038f1412",
   "lastOpenFiles": [
+    "관광객의 철학/316b 작은 평균 거리.md",
+    "관광객의 철학/136b1 지름길.md",
     "관광객의 철학/316a 큰 클러스터 계수.md",
     "관광객의 철학/무제 파일 2.md",
-    "관광객의 철학/316b 작은 평균 거리.md",
     "관광객의 철학/무제 파일 1.md",
-    "관광객의 철학/무제 파일.md",
     "관광객의 철학/316 네트워크 이론.md",
     "관광객의 철학/무제 파일 198.md",
     "관광객의 철학/316c 무척도.md",

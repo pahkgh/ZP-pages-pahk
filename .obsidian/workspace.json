@@ -157,9 +157,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53aa20e9984d5c60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광객의 철학/316b2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -225,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/316b1 '세상 좁다'의 수학적 모순.md",
+                "file": "관광객의 철학/316b2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/316b1 '세상 좁다'의 수학적 모순.md",
+                "file": "관광객의 철학/316b2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/316b1 '세상 좁다'의 수학적 모순.md"
+                "file": "관광객의 철학/316b2.md"
               }
             }
           }
@@ -286,14 +299,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2ffcfbb652697644",
+  "active": "53aa20e9984d5c60",
   "lastOpenFiles": [
-    "관광객의 철학/316b 작은 평균 거리.md",
     "관광객의 철학/316b1 '세상 좁다'의 수학적 모순.md",
+    "관광객의 철학/316b2.md",
+    "관광객의 철학/316b 작은 평균 거리.md",
     "관광객의 철학/무제 파일.md",
     "관광객의 철학/316a 큰 클러스터 계수.md",
     "관광객의 철학/무제 파일 2.md",
-    "관광객의 철학/무제 파일 1.md",
     "관광객의 철학/316 네트워크 이론.md",
     "관광객의 철학/무제 파일 198.md",
     "관광객의 철학/316c 무척도.md",

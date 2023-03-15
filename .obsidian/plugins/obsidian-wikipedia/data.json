@@ -3,5 +3,5 @@
   "shouldUseParagraphTemplate": true,
   "shouldBoldSearchTerm": true,
   "paragraphTemplate": "> {{paragraphText}}\n>\n",
-  "language": "en"
+  "language": "korean"
 }

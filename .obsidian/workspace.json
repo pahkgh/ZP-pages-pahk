@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학자/데카르트.md",
+                "file": "학자/바슐라르.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학자/데카르트.md",
+                "file": "학자/바슐라르.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학자/데카르트.md",
+                "file": "학자/바슐라르.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학자/데카르트.md"
+                "file": "학자/바슐라르.md"
               }
             }
           }
@@ -150,6 +150,9 @@
   },
   "active": "610c5ffda9221710",
   "lastOpenFiles": [
+    "학자/류정아.md",
+    "학자/라이프니츠.md",
+    "학자/데카르트.md",
     "Foucault, Michel (푸코).canvas",
     "Pasted image 20221218113247.png.md",
     "209 원조 테마파크, 디즈니랜드.canvas",
@@ -169,8 +172,6 @@
     "학자/Foucault, Michel (푸코).md",
     "관광객의 철학/317 재오배로 시작되는 저항.md",
     "학자/Boorstin, Daniel (부어스틴).md",
-    "학자/류정아.md",
-    "학자/데카르트.md",
     "학자/Gennep, Arnold van (반 게넵).md",
     "관광객의 철학/308a 오해가 만드는 효과.md",
     "관광객의 철학/315b 오배(긍정적).md",

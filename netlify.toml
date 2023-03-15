@@ -10,7 +10,7 @@ LANDING_DESCRIPTION = "Chaegscang"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "📂"
+LANDING_TITLE = "🍽️"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/pahkgh/ZP-pages-pahk"
@@ -40,7 +40,7 @@ SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
-ROOT_SECTION_NAME = "me"
+ROOT_SECTION_NAME = "🍽️"
 COMMENTS_GISCUSS = ""
 EDIT_PAGE = ""
 EDIT_PAGE_BUTTON_TEXT = ""

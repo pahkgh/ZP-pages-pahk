@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "610c5ffda9221710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광객의 철학/316e1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/316e 사회 '신화'.md",
+                "file": "관광객의 철학/316e1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/316e 사회 '신화'.md",
+                "file": "관광객의 철학/316e1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/316e 사회 '신화'.md"
+                "file": "관광객의 철학/316e1.md"
               }
             }
           }
@@ -162,8 +175,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6d49ab04c15a8d53",
+  "active": "610c5ffda9221710",
   "lastOpenFiles": [
+    "관광객의 철학/316e 사회 '신화'.md",
+    "관광객의 철학/316e1.md",
     "관광객의 철학/316c3 우선적 선택.md",
     "관광객의 철학/316c4 새로운 사회과학 담론.md",
     "관광객의 철학/316c2 시간과 주체의 도입.md",
@@ -174,11 +189,9 @@
     "관광객의 철학/316b1 '세상 좁다'의 모순.md",
     "관광객의 철학/316b 작은 평균 거리.md",
     "관광객의 철학/316a 큰 클러스터 계수.md",
-    "관광객의 철학/316e 사회 '신화'.md",
     "관광객의 철학/316d1 리좀의 애매모호함.md",
     "학자/Rousseau, Jean-Jacques (루소).md",
     "학자/Hobbes, Thomas (홉스).md",
-    "관광객의 철학/무제 파일.md",
     "관광객의 철학/316d 트리, 리좀, 격자.md",
     "학자/Deleuze, Gilles (들뢰즈).md",
     "관광객의 철학/무제 파일 2.md",

@@ -32,8 +32,13 @@
             "id": "6119a8374a486a93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "관광객의 철학/무제 파일 198.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -83,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "관광객의 철학/무제 파일 198.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "관광객의 철학/무제 파일 198.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "관광객의 철학/무제 파일 198.md"
+              }
             }
           }
         ],
@@ -161,8 +169,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "30f14fbf303a2c74",
+  "active": "6119a8374a486a93",
   "lastOpenFiles": [
+    "관광객의 철학/312 21세기의 2층 구조.md",
+    "관광객의 철학/Pasted image 20230223222126.png",
+    "관광객의 철학/무제 파일 198.md",
     "관광인류학의 이해/209b1 디즈니랜드의 독창성.md",
     "YONSEI/곁000 문학환경과 곁사슬문학의 이해.md",
     "YONSEI/곁003 문학환경.md",
@@ -188,9 +199,6 @@
     "설법하는 고양이와 부처가 된 로봇/403a 물결을 타고 살며 편안할 수 있는 능력.md",
     "설법하는 고양이와 부처가 된 로봇/403 평상심.md",
     "설법하는 고양이와 부처가 된 로봇/402b2 상황의존성.md",
-    "설법하는 고양이와 부처가 된 로봇/402b1 '불법 그 자체' vs 활구.md",
-    "설법하는 고양이와 부처가 된 로봇/402b 언어화와 개념화, 사구화.md",
-    "관광객의 철학/Pasted image 20230223222126.png",
     "images/Pasted image 20230228173704.png",
     "images/Pasted image 20230228173717.png",
     "YONSEI",

@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "a0b562fdce5357f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관광객의 철학/무제 파일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d49ab04c15a8d53",
             "type": "leaf",
             "state": {
@@ -55,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "내셔널리즘",
+                "query": "재연",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/312d 비판적 지식인.md",
+                "file": "관광객의 철학/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/312d 비판적 지식인.md",
+                "file": "관광객의 철학/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/312d 비판적 지식인.md"
+                "file": "관광객의 철학/무제 파일.md"
               }
             }
           }
@@ -183,35 +196,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7a0968a5a923df76",
+  "active": "a0b562fdce5357f5",
   "lastOpenFiles": [
-    "관광객의 철학/303 20세기 인문 사상 전체의 적.md",
     "관광객의 철학/312d 비판적 지식인.md",
+    "관광객의 철학/무제 파일.md",
+    "관광객의 철학/316 네트워크 이론.md",
+    "관광객의 철학/315a '우편적'의 진의.md",
+    "관광객의 철학/315b 오배(긍정적).md",
+    "관광객의 철학/316a 큰 클러스터 계수.md",
+    "관광객의 철학/316e 사회 '신화'.md",
+    "관광객의 철학/316d1 리좀의 애매모호함.md",
+    "관광객의 철학/Pasted image 20230223222126.png",
+    "관광객의 철학/316e1 신화를 쓰는 이유.md",
+    "관광객의 철학/316b2 지름길과 바꿔연결하기.md",
+    "관광객의 철학/303 20세기 인문 사상 전체의 적.md",
     "관광객의 철학/312 21세기의 2층 구조.md",
     "관광객의 철학/313 변증법 시대의 붕괴.md",
     "관광객의 철학/312b 국민국가와 제국.md",
-    "관광객의 철학/316e1 신화를 쓰는 이유.md",
-    "관광객의 철학/316d1 리좀의 애매모호함.md",
-    "관광객의 철학/316e 사회 '신화'.md",
     "관광객의 철학/316c1 인터넷의 배신.md",
     "관광객의 철학/316d 트리, 리좀, 격자.md",
-    "관광객의 철학/315a '우편적'의 진의.md",
     "관광객의 철학/316c4 새로운 사회과학 담론.md",
     "관광객의 철학/316c3 우선적 선택.md",
     "관광객의 철학/316c2 시간과 주체의 도입.md",
     "관광객의 철학/316c 무척도.md",
     "관광객의 철학/316b3 인간 사회의 역동성.md",
-    "관광객의 철학/316b2 지름길과 스몰월드.md",
     "관광객의 철학/316b1 '세상 좁다'의 모순.md",
     "관광객의 철학/316b 작은 평균 거리.md",
-    "관광객의 철학/316a 큰 클러스터 계수.md",
     "학자/Rousseau, Jean-Jacques (루소).md",
     "학자/Hobbes, Thomas (홉스).md",
     "학자/Deleuze, Gilles (들뢰즈).md",
-    "관광객의 철학/무제 파일 2.md",
-    "관광객의 철학/316 네트워크 이론.md",
-    "316a 큰 클러스터 계수.md",
-    "관광객의 철학/Pasted image 20230223222126.png",
     "YONSEI/Pasted image 20230228162517.png",
     "images/Pasted image 20230228173704.png",
     "images/Pasted image 20230228173717.png",

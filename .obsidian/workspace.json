@@ -11,16 +11,32 @@
             "id": "610c5ffda9221710",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "관광객의 철학/317 재오배로 시작되는 저항.canvas",
+                "viewState": {
+                  "x": 1250,
+                  "y": 5050,
+                  "zoom": -3.4926649218200567
+                }
+              }
+            }
+          },
+          {
+            "id": "c014bcf225ee4738",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "학자/바슐라르.md",
+                "file": "관광객의 철학/20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학자/바슐라르.md",
+                "file": "관광객의 철학/20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학자/바슐라르.md",
+                "file": "관광객의 철학/20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학자/바슐라르.md"
+                "file": "관광객의 철학/20.md"
               }
             }
           }
@@ -148,8 +164,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "610c5ffda9221710",
+  "active": "c014bcf225ee4738",
   "lastOpenFiles": [
+    "관광객의 철학/317 재오배로 시작되는 저항.canvas",
+    "관광객의 철학/20.md",
+    "학자/바슐라르.md",
     "학자/류정아.md",
     "학자/라이프니츠.md",
     "학자/데카르트.md",
@@ -168,7 +187,6 @@
     "관광인류학의 이해/209a 지구상의 공통문화.md",
     "관광인류학의 이해/209a1 무에서 태어난 궁극의 관광지.md",
     "관광인류학의 이해/209b '시대착오적인 유원지'.md",
-    "관광객의 철학/317 재오배로 시작되는 저항.canvas",
     "학자/Foucault, Michel (푸코).md",
     "관광객의 철학/317 재오배로 시작되는 저항.md",
     "학자/Boorstin, Daniel (부어스틴).md",
@@ -177,9 +195,6 @@
     "관광객의 철학/315b 오배(긍정적).md",
     "관광인류학의 이해/203a 관광은 일상과 떨어지는 것.md",
     "관광객의 철학/308 자의적인 관광지 해석.md",
-    "관광객의 철학/316d1 리좀의 애매모호함.md",
-    "관광객의 철학/316b2 바꿔 연결하는 지름길.md",
-    "관광객의 철학/312d 비판적 지식인.md",
     "관광객의 철학/Pasted image 20230223222126.png",
     "YONSEI/Pasted image 20230228162517.png",
     "images/Pasted image 20230228173704.png",

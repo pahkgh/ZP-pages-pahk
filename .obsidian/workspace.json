@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,7 +196,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a0b562fdce5357f5",
+  "active": "cef2512fff0fe548",
   "lastOpenFiles": [
     "관광객의 철학/308a 오해가 만드는 효과.md",
     "관광객의 철학/315b 오배(긍정적).md",

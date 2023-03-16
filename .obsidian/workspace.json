@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YONSEI/도001 도시+인류학.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa07259f3a281c9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "YONSEI/도004 도시 이미지.md",
                 "mode": "source",
                 "backlinks": true,
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "180cd9447e8a28e8",
@@ -176,12 +161,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa07259f3a281c9d",
+  "active": "0d209f1b45a1d93a",
   "lastOpenFiles": [
-    "YONSEI/도003 도시인류학의 연구방법.md",
-    "YONSEI/도002 도시인류학의 계보.md",
+    "YONSEI/『파리 모더니티』.md",
     "YONSEI/도004 도시 이미지.md",
     "YONSEI/도001 도시+인류학.md",
+    "YONSEI/도003 도시인류학의 연구방법.md",
+    "YONSEI/도002 도시인류학의 계보.md",
     "YONSEI/도000 도시인류학.md",
     "YONSEI/곁0067.md",
     "YONSEI/곁006 필연과 개연.md",
@@ -206,7 +192,6 @@
     "209 원조 테마파크, 디즈니랜드.canvas",
     "관광인류학의 이해/209c2a 디즈니 머니와 일상 감각.md",
     "관광인류학의 이해/209d 관광 가이드북.md",
-    "관광인류학의 이해/210a 방사형의 스펙타클.md",
     "209 원조 테마파크, 디즈니랜드-0.canvas",
     "관광객의 철학/Pasted image 20230223222126.png",
     "YONSEI/Pasted image 20230228162517.png",

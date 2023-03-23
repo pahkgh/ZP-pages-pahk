@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/318.md",
+                "file": "관광객의 철학/318 실용주의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/318.md",
+                "file": "관광객의 철학/318a 리버럴 아이러니스트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "만날 일",
+                "query": "tag:#진리",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/318.md",
+                "file": "관광객의 철학/318a 리버럴 아이러니스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/318.md",
+                "file": "관광객의 철학/318a 리버럴 아이러니스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/318.md"
+                "file": "관광객의 철학/318a 리버럴 아이러니스트.md"
               }
             }
           }
@@ -216,9 +216,10 @@
   },
   "active": "ff22f33ecf37c691",
   "lastOpenFiles": [
+    "학자/Rorty, Richard (로티).md",
+    "관광객의 철학/318 실용주의.md",
+    "관광객의 철학/318a 리버럴 아이러니스트.md",
     "YONSEI/곁005 소설 1.md",
-    "관광객의 철학/318.md",
-    "관광객의 철학/무제 파일 1.md",
     "관광객의 철학/317 관광객의 원리 = 오배의 재연.md",
     "관광객의 철학/317 재오배로 시작되는 저항.canvas",
     "관광객의 철학/303 20세기 인문 사상 전체의 적.md",
@@ -243,7 +244,6 @@
     "YONSEI/곁003 문학환경.md",
     "YONSEI/곁002 SF와 현실.md",
     "‘우디 페르소나’와 진정성 문제.md",
-    "관광객의 철학/무제파일 204 로티에 따르면,,,,.md",
     "Foucault, Michel (푸코).canvas",
     "209 원조 테마파크, 디즈니랜드.canvas",
     "209 원조 테마파크, 디즈니랜드-0.canvas",

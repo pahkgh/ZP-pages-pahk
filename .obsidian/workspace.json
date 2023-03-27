@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전후 일본 건축/601.md",
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전후 일본 건축/601.md",
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전후 일본 건축/601.md",
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전후 일본 건축/601.md"
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601.md"
               }
             }
           }
@@ -250,13 +250,15 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false
     }
   },
   "active": "acdcbf9faa6b2346",
   "lastOpenFiles": [
     "전후 일본 건축/600 『전후 일본 건축』.md",
-    "전후 일본 건축/601.md",
+    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601.md",
+    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",
     "영원성의 역사/502 57쪽.md",
     "감각론 특집.md",
@@ -283,7 +285,6 @@
     "YONSEI/곁010 알파고이세돌ai.md",
     "영원성의 역사",
     "YONSEI/도004 도시 이미지.md",
-    "YONSEI/『파리 모더니티』.md",
     "Foucault, Michel (푸코).canvas",
     "209 원조 테마파크, 디즈니랜드.canvas",
     "209 원조 테마파크, 디즈니랜드-0.canvas",

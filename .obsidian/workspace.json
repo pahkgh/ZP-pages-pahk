@@ -78,7 +78,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
+                "file": "영원성의 역사/502 57쪽.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "321d5e85c0acf1ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영원성의 역사/『전후 일본 건축』.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
+                "file": "영원성의 역사/『전후 일본 건축』.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
+                "file": "영원성의 역사/『전후 일본 건축』.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md"
+                "file": "영원성의 역사/『전후 일본 건축』.md"
               }
             }
           }
@@ -227,10 +240,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f964c67d69a14dc9",
+  "active": "321d5e85c0acf1ec",
   "lastOpenFiles": [
-    "「‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고」.md",
+    "영원성의 역사/502 57쪽.md",
+    "영원성의 역사/『전후 일본 건축』.md",
+    "감각론 특집.md",
     "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
+    "「‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고」.md",
     "관광객의 철학/315b2 계몽 효과.md",
     "관광객의 철학/314a3 부정신학적인 연대.md",
     "관광객의 철학/312d 비판적 지식인.md",
@@ -238,7 +254,6 @@
     "관광객의 철학/305a1 근대 이전의 여행.md",
     "관광객의 철학/303a1 보편적 우호로서의 방문권.md",
     "관광객의 철학/302 문학적 사유.md",
-    "영원성의 역사/502 57쪽.md",
     "영원성의 역사/501 작품을 출판하지 않을 때의 나쁜 점은, 퇴고만 하다가 일생을 다 보낸다는 것이다.md",
     "영원성의 역사/500 『영원성의 역사』.md",
     "관광객의 철학/318a 모순과 함께 살아가는 태도.md",
@@ -255,8 +270,6 @@
     "YONSEI/도004 도시 이미지.md",
     "YONSEI/『파리 모더니티』.md",
     "YONSEI/도001 도시+인류학.md",
-    "YONSEI/도003 도시인류학의 연구방법.md",
-    "YONSEI/도002 도시인류학의 계보.md",
     "Foucault, Michel (푸코).canvas",
     "209 원조 테마파크, 디즈니랜드.canvas",
     "209 원조 테마파크, 디즈니랜드-0.canvas",

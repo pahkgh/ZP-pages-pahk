@@ -104,7 +104,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601.md",
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601 '전후' (戰後).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0400b338c3c65cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601 '전후' (戰後).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5797b1cf39123f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/무제 파일 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4727154a7a0966a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -191,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601.md",
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601.md",
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601.md"
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후.md"
               }
             }
           }
@@ -254,10 +293,13 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "acdcbf9faa6b2346",
+  "active": "b4727154a7a0966a",
   "lastOpenFiles": [
+    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601 '전후' (戰後).md",
+    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후.md",
+    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/무제 파일 2.md",
+    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/무제 파일 1.md",
     "전후 일본 건축/600 『전후 일본 건축』.md",
-    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601.md",
     "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",
     "영원성의 역사/502 57쪽.md",
@@ -282,9 +324,7 @@
     "관광객의 철학/317 관광객의 원리 = 오배의 재연.md",
     "관광객의 철학/317 재오배로 시작되는 저항.canvas",
     "관광객의 철학/303 20세기 인문 사상 전체의 적.md",
-    "YONSEI/곁010 알파고이세돌ai.md",
     "영원성의 역사",
-    "YONSEI/도004 도시 이미지.md",
     "Foucault, Michel (푸코).canvas",
     "209 원조 테마파크, 디즈니랜드.canvas",
     "209 원조 테마파크, 디즈니랜드-0.canvas",

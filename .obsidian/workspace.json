@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/603.md",
+                "file": "Templates/이미지 첨부.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/603.md",
+                "file": "Templates/이미지 첨부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/603.md",
+                "file": "Templates/이미지 첨부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/603.md"
+                "file": "Templates/이미지 첨부.md"
               }
             }
           }
@@ -244,9 +244,10 @@
   },
   "active": "9214a5fb5edad33f",
   "lastOpenFiles": [
+    "Templates/필기.md",
+    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/603.md",
     "전후 일본 건축/600 『전후 일본 건축』.md",
     "Templates/이미지 첨부.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/603.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 2.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 3.md",
@@ -272,7 +273,6 @@
     "감각론 특집.md",
     "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
     "「‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고」.md",
-    "관광객의 철학/315b2 계몽 효과.md",
     "관광객의 철학/317 재오배로 시작되는 저항.canvas",
     "영원성의 역사",
     "Foucault, Michel (푸코).canvas",

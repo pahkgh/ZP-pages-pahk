@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/무제 파일 1.md",
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601b 탈(脫)전후 이데올로기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후.md",
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/602 서브컬쳐, 왜곡된 전쟁 기억.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후.md",
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/602 서브컬쳐, 왜곡된 전쟁 기억.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후.md",
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/602 서브컬쳐, 왜곡된 전쟁 기억.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후.md"
+                "file": "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/602 서브컬쳐, 왜곡된 전쟁 기억.md"
               }
             }
           }
@@ -293,12 +293,13 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "b4727154a7a0966a",
+  "active": "cef2512fff0fe548",
   "lastOpenFiles": [
+    "무제 폴더",
+    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601b 탈(脫)전후 이데올로기.md",
+    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후의 시작과 끝.md",
+    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/602 서브컬쳐, 왜곡된 전쟁 기억.md",
     "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601 '전후' (戰後).md",
-    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/601a 전후.md",
-    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/무제 파일 2.md",
-    "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가/무제 파일 1.md",
     "전후 일본 건축/600 『전후 일본 건축』.md",
     "전후 일본 건축/INTRO. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",
@@ -323,7 +324,6 @@
     "YONSEI/곁005 소설 1.md",
     "관광객의 철학/317 관광객의 원리 = 오배의 재연.md",
     "관광객의 철학/317 재오배로 시작되는 저항.canvas",
-    "관광객의 철학/303 20세기 인문 사상 전체의 적.md",
     "영원성의 역사",
     "Foucault, Michel (푸코).canvas",
     "209 원조 테마파크, 디즈니랜드.canvas",

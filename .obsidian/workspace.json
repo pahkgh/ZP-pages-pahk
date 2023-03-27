@@ -78,7 +78,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가/601 '전후' (戰後).md",
+                "file": "Templates/Chaegscang.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0400955bcc020937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/줄 공백.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9214a5fb5edad33f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/이미지 첨부.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -152,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가/601 '전후' (戰後).md",
+                "file": "Templates/이미지 첨부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가/601 '전후' (戰後).md",
+                "file": "Templates/이미지 첨부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가/601 '전후' (戰後).md"
+                "file": "Templates/이미지 첨부.md"
               }
             }
           }
@@ -216,8 +242,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bc8755cc54a3259",
+  "active": "9214a5fb5edad33f",
   "lastOpenFiles": [
+    "Templates/줄 공백.md",
+    "Templates/이미지 첨부.md",
+    "Templates/Chaegscang.md",
+    "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가/601a 전후의 시작과 끝.md",
+    "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가/601 '전후' (戰後).md",
     "전후 일본 건축/1장. 단기 겐조, '전후' 일본의 국가 건축가/603.md",
     "전후 일본 건축/1장. 단기 겐조, '전후' 일본의 국가 건축가/무제 파일.md",
     "전후 일본 건축/1장. 단기 겐조, '전후' 일본의 국가 건축가/무제 파일 11.md",
@@ -234,8 +265,6 @@
     "전후 일본 건축/1장. 단기 겐조, '전후' 일본의 국가 건축가/무제 파일 1.md",
     "전후 일본 건축/1장. 단기 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가/601b 탈(脫)전후 이데올로기.md",
-    "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가/601a 전후의 시작과 끝.md",
-    "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가/601 '전후' (戰後).md",
     "전후 일본 건축/600 『전후 일본 건축』.md",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",
@@ -244,9 +273,6 @@
     "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
     "「‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고」.md",
     "관광객의 철학/315b2 계몽 효과.md",
-    "관광객의 철학/314a3 부정신학적인 연대.md",
-    "관광객의 철학/312d 비판적 지식인.md",
-    "관광객의 철학/310 세계의 오류 가능성.md",
     "관광객의 철학/317 재오배로 시작되는 저항.canvas",
     "영원성의 역사",
     "Foucault, Michel (푸코).canvas",

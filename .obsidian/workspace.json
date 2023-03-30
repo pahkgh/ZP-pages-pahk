@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미야자키 월드/703a.md",
+                "file": "미야자키 월드/703a 종말의 아름다운 이미지.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9719d879e5ccf936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "미야자키 월드/703b '모노노아와레'.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미야자키 월드/703a.md",
+                "file": "미야자키 월드/703b '모노노아와레'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미야자키 월드/703a.md",
+                "file": "미야자키 월드/703b '모노노아와레'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미야자키 월드/703a.md"
+                "file": "미야자키 월드/703b '모노노아와레'.md"
               }
             }
           }
@@ -190,10 +203,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9cfd84025a0575dd",
+  "active": "9719d879e5ccf936",
   "lastOpenFiles": [
+    "미야자키 월드/703a 종말의 아름다운 이미지.md",
+    "미야자키 월드/703b '모노노아와레'.md",
     "미야자키 월드/703 재난에 관한 상상력.md",
-    "미야자키 월드/703a.md",
     "미야자키 월드/702b 트라우마를 감내하는 미덕.md",
     "학자/스피노자.md",
     "학자/오이즈미 미쓰나리.md",
@@ -219,7 +233,6 @@
     "영원성의 역사/502 57쪽.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/604b.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 8.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 9.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",

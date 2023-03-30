@@ -8,64 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07bc872903782e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "관광객의 철학/318a 모순과 함께 살아가는 태도.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c37b653da3861bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "미야자키 월드/700 『미야자키 월드』.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5d8053b5acdfee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "미야자키 월드/701 거장을 비평하는 어려움.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cb060ad3e206aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "미야자키 월드/702.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "657e60f92e3ac7b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미야자키 월드/702.md",
+                "file": "미야자키 월드/702a 패전국의 국민들.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "015244538eb52fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "미야자키 월드/702b.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미야자키 월드/702.md",
+                "file": "미야자키 월드/702b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미야자키 월드/702.md",
+                "file": "미야자키 월드/702b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미야자키 월드/702.md"
+                "file": "미야자키 월드/702b.md"
               }
             }
           }
@@ -203,10 +164,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "657e60f92e3ac7b3",
+  "active": "015244538eb52fad",
   "lastOpenFiles": [
-    "미야자키 월드/7022.md",
-    "미야자키 월드/702.md",
+    "미야자키 월드/702 미야자키와 세계대전.md",
+    "미야자키 월드/702b.md",
+    "미야자키 월드/702a 패전국의 국민들.md",
     "미야자키 월드/701 거장을 비평하는 어려움.md",
     "미야자키 월드/700 『미야자키 월드』.md",
     "설법하는 고양이와 부처가 된 로봇/400 『설법하는 고양이와 부처가 된 로봇』.md",
@@ -232,7 +194,6 @@
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 10.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 7.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 6.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/605a 동선에 담긴 서사.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",

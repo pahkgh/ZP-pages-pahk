@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미야자키 월드/701.md",
+                "file": "미야자키 월드/701 거장을 비평하는 어려움.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cb060ad3e206aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "미야자키 월드/702.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미야자키 월드/701.md",
+                "file": "미야자키 월드/702.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미야자키 월드/701.md",
+                "file": "미야자키 월드/702.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미야자키 월드/701.md"
+                "file": "미야자키 월드/702.md"
               }
             }
           }
@@ -177,10 +190,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5d8053b5acdfee5",
+  "active": "0cb060ad3e206aa2",
   "lastOpenFiles": [
+    "미야자키 월드/701 거장을 비평하는 어려움.md",
+    "미야자키 월드/702.md",
+    "학자/가오루 쿠미.md",
+    "학자/미야자키 하야오.md",
     "미야자키 월드/700 『미야자키 월드』.md",
-    "미야자키 월드/701.md",
     "무제 폴더",
     "관광객의 철학/318a 모순과 함께 살아가는 태도.md",
     "미야자키 월드",
@@ -204,9 +220,6 @@
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/605a 동선에 담긴 서사.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/605 히로시마 평화공원.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 4.md",
-    "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가/600 『전후 일본 건축』.md",
-    "Templates/줄 공백.md",
-    "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",

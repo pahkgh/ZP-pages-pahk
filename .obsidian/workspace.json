@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미야자키 월드/702b 트라우마를 감내하는 미덕.md",
+                "file": "미야자키 월드/703.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26026dfa3394afd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학자/스피노자.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2차창작",
+                "query": "스피노자",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미야자키 월드/702b 트라우마를 감내하는 미덕.md",
+                "file": "미야자키 월드/703.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미야자키 월드/702b 트라우마를 감내하는 미덕.md",
+                "file": "미야자키 월드/703.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미야자키 월드/702b 트라우마를 감내하는 미덕.md"
+                "file": "미야자키 월드/703.md"
               }
             }
           }
@@ -166,8 +179,11 @@
   },
   "active": "015244538eb52fad",
   "lastOpenFiles": [
-    "미야자키 월드/702 미야자키와 세계대전.md",
     "미야자키 월드/702b 트라우마를 감내하는 미덕.md",
+    "학자/스피노자.md",
+    "미야자키 월드/703.md",
+    "학자/오이즈미 미쓰나리.md",
+    "미야자키 월드/702 미야자키와 세계대전.md",
     "미야자키 월드/702a 패전국의 국민들.md",
     "미야자키 월드/701 거장을 비평하는 어려움.md",
     "미야자키 월드/700 『미야자키 월드』.md",
@@ -191,9 +207,6 @@
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 8.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 9.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 11.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 10.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 7.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 6.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",

@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c37b653da3861bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "미야자키 월드/700 『미야자키 월드』.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/318a 모순과 함께 살아가는 태도.md",
+                "file": "미야자키 월드/700 『미야자키 월드』.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/318a 모순과 함께 살아가는 태도.md",
+                "file": "미야자키 월드/700 『미야자키 월드』.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/318a 모순과 함께 살아가는 태도.md"
+                "file": "미야자키 월드/700 『미야자키 월드』.md"
               }
             }
           }
@@ -150,8 +164,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07bc872903782e63",
+  "active": "c37b653da3861bed",
   "lastOpenFiles": [
+    "관광객의 철학/318a 모순과 함께 살아가는 태도.md",
+    "미야자키 월드/700 『미야자키 월드』.md",
+    "미야자키 월드",
     "관광객의 철학/318b.md",
     "관광객의 철학/316e1 신화를 쓰는 이유.md",
     "관광객의 철학/316c2 시간과 주체의 도입.md",
@@ -176,8 +193,6 @@
     "Templates/줄 공백.md",
     "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/604a 전쟁 시기 건축의 터부화.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/604 애국적 건축.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/603 '국가' 건축가의 함의.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",

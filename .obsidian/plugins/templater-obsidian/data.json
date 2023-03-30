@@ -21,6 +21,10 @@
     {
       "folder": "전후 일본 건축/1장. 단기 겐조, '전후' 일본의 국가 건축가",
       "template": "Templates/Chaegscang.md"
+    },
+    {
+      "folder": "미야자키 월드",
+      "template": "Templates/Chaegscang.md"
     }
   ],
   "syntax_highlighting": true,

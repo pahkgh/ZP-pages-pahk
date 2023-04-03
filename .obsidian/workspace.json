@@ -127,7 +127,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미야자키 월드/705 장소의 특이성.md",
+                "file": "미야자키 월드/702c 한탄하기보다는 남은 것을 소중히.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa272d60cef2a99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "미야자키 월드/703c.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -201,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미야자키 월드/705 장소의 특이성.md",
+                "file": "미야자키 월드/703c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미야자키 월드/705 장소의 특이성.md",
+                "file": "미야자키 월드/703c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미야자키 월드/705 장소의 특이성.md"
+                "file": "미야자키 월드/703c.md"
               }
             }
           }
@@ -265,16 +278,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3381bf4644779e34",
+  "active": "aa272d60cef2a99d",
   "lastOpenFiles": [
-    "학자/Cameron, Eleanor (카메론).md",
-    "미야자키 월드/705 장소의 특이성.md",
-    "미야자키 월드/704b 책임감 있는 아이.md",
     "미야자키 월드/702c 한탄하기보다는 남은 것을 소중히.md",
+    "미야자키 월드/703c.md",
+    "미야자키 월드/702 미야자키와 세계대전.md",
+    "미야자키 월드/702a 패전국의 국민들.md",
+    "미야자키 월드/702b 트라우마를 감내하는 미덕.md",
+    "미야자키 월드/705 장소의 특이성.md",
+    "학자/Cameron, Eleanor (카메론).md",
+    "미야자키 월드/704b 책임감 있는 아이.md",
     "학자/Kazanjian, David (카잔지안).md",
     "학자/Eng, David L. (엥).md",
     "미야자키 월드/704a 모성 인물들.md",
-    "미야자키 월드/702b 트라우마를 감내하는 미덕.md",
     "미야자키 월드/704 미야자키의 트라우마.md",
     "미야자키 월드/703b 아름다움의 무상함.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/605 히로시마 평화공원.md",
@@ -290,9 +306,6 @@
     "「‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고」.md",
     "학자/스피노자.md",
     "미야자키 월드/703a 종말의 아름다운 이미지.md",
-    "미야자키 월드/703 재난에 관한 상상력.md",
-    "학자/오이즈미 미쓰나리.md",
-    "미야자키 월드/702 미야자키와 세계대전.md",
     "무제 폴더",
     "미야자키 월드",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",

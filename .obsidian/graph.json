@@ -1,22 +1,65 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"관광객의 철학\"",
+      "color": {
+        "a": 1,
+        "rgb": 7058431
+      }
+    },
+    {
+      "query": "path:\"미야자키 월드\"",
+      "color": {
+        "a": 1,
+        "rgb": 5832959
+      }
+    },
+    {
+      "query": "path:\"관광인류학의 이해\"",
+      "color": {
+        "a": 1,
+        "rgb": 16765266
+      }
+    },
+    {
+      "query": "path:\"설법하는 고양이와 부처가 된 로봇\"",
+      "color": {
+        "a": 1,
+        "rgb": 12237498
+      }
+    },
+    {
+      "query": "path:\"영원성의 역사\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048431
+      }
+    },
+    {
+      "query": "path:\"전후 일본 건축\"",
+      "color": {
+        "a": 1,
+        "rgb": 7839409
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.503472222222222,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.24675286091729579,
-  "close": true
+  "scale": 0.41471529005953484,
+  "close": false
 }

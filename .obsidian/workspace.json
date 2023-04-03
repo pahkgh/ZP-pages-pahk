@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "26026dfa3394afd1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "657e60f92e3ac7b3",
             "type": "leaf",
             "state": {
@@ -65,23 +75,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미야자키 월드/704 46쪽부터.md",
+                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "26026dfa3394afd1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "미야자키 월드/704 46쪽부터.md",
+                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "미야자키 월드/704 46쪽부터.md",
+                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "미야자키 월드/704 46쪽부터.md"
+                "file": "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md"
               }
             }
           }
@@ -213,8 +215,9 @@
   },
   "active": "48567d8323a647c0",
   "lastOpenFiles": [
-    "미야자키 월드/703b 아름다움의 무상함.md",
+    "「‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고」.md",
     "미야자키 월드/704 46쪽부터.md",
+    "미야자키 월드/703b 아름다움의 무상함.md",
     "학자/스피노자.md",
     "미야자키 월드/703a 종말의 아름다운 이미지.md",
     "미야자키 월드/703 재난에 관한 상상력.md",
@@ -240,7 +243,6 @@
     "관광객의 철학/『제국』.md",
     "관광인류학의 이해/211 타임머신으로서의 박물관.md",
     "영원성의 역사/502 57쪽.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/604b.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",

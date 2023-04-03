@@ -18,6 +18,32 @@
             }
           },
           {
+            "id": "b871be9fa21540dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "미야자키 월드/700 『미야자키 월드』.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "975ff0d06c6481b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "미야자키 월드/무제 파일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "657e60f92e3ac7b3",
             "type": "leaf",
             "state": {
@@ -153,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YONSEI/곁011 문학의 기능.md",
+                "file": "미야자키 월드/703d 잔해도착증.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -161,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YONSEI/곁011 문학의 기능.md",
+                "file": "미야자키 월드/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YONSEI/곁011 문학의 기능.md",
+                "file": "미야자키 월드/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YONSEI/곁011 문학의 기능.md"
+                "file": "미야자키 월드/무제 파일.md"
               }
             }
           }
@@ -291,9 +317,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09fc45fc5e9d6f1d",
+  "active": "975ff0d06c6481b2",
   "lastOpenFiles": [
+    "미야자키 월드/700 『미야자키 월드』.md",
     "미야자키 월드/무제 파일.md",
+    "무제 파일.md",
+    "미야자키 월드/703d 잔해도착증.md",
+    "YONSEI/곁011 문학의 기능.md",
     "학자/스베틀라나 보임.md",
     "미야자키 월드/704b 책임감 있는 아이.md",
     "미야자키 월드/703c 전쟁의 강렬함을 동경한 소년.md",
@@ -315,10 +345,6 @@
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 10.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 11.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 9.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 7.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/605a 동선에 담긴 서사.md",
-    "「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
-    "「‘관광현상’을 분석하는 인류학적 ‘시선’에 대한 일고」.md",
     "무제 폴더",
     "미야자키 월드",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",

@@ -1,9 +1,4 @@
 {
-	"nodes":[
-		{"id":"054f2a595947cc5d","x":-600,"y":-296,"width":440,"height":96,"type":"file","file":"공부/201 연출되고 소비되는 문화.md"},
-		{"id":"fc85aa9493fbe39c","x":-600,"y":-80,"width":582,"height":84,"type":"file","file":"공부/201a 이미지의 조직적 생산·공급.md"}
-	],
-	"edges":[
-		{"id":"ce96975cd6a06584","fromNode":"054f2a595947cc5d","fromSide":"bottom","toNode":"fc85aa9493fbe39c","toSide":"top"}
-	]
+	"nodes":[],
+	"edges":[]
 }

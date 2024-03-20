@@ -62,15 +62,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/700 『미야자키 월드』.md",
+                "file": "공부/209c '성지' 디즈니랜드.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cae76e409dee64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "공부/706 환경 테마에 대해.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "신토",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/700 『미야자키 월드』.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/700 『미야자키 월드』.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +194,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "공부/700 『미야자키 월드』.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -209,8 +218,14 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "cef2512fff0fe548",
+  "active": "26026dfa3394afd1",
   "lastOpenFiles": [
+    "공부/706 환경 테마에 대해.md",
+    "공부/209c '성지' 디즈니랜드.md",
+    "공부/208a 훌라춤의 이미지 착취.md",
+    "공부/203b 성스러운 여행 의례.md",
+    "무제 파일.canvas",
+    "공부/700 『미야자키 월드』.md",
     "공부/400 『설법하는 고양이와 부처가 된 로봇』.md",
     "공부/402b 언어화와 개념화, 사구화.md",
     "공부/300 『관광객의 철학』.md",
@@ -225,21 +240,15 @@
     "공부/600 『전후 일본 건축』.md",
     "영원성의 역사/502 57쪽.md",
     "공부/500 『영원성의 역사』.md",
-    "무제 파일.canvas",
     "공부/301a 마을사람, 나그네, 관광객.md",
     "공부/301 방법으로서의 관광객.md",
     "공부/305a1 근대 이전의 여행.md",
     "공부",
     "공부/303a 현대 사회의 공통 윤리.md",
     "공부/301b1 관광객의 동기.md",
-    "공부/706 환경 테마에 대해.md",
     "공부/703 재난에 관한 상상력.md",
     "공부/704 미야자키의 트라우마.md",
     "공부/703d 잔해도착증.md",
-    "공부/703c 전쟁의 강렬함을 동경한 소년.md",
-    "공부/703b 아름다움의 무상함.md",
-    "공부/703a 종말의 아름다운 이미지.md",
-    "공부/702c 한탄하기보다는 남은 것을 소중히.md",
     "미야자키 월드",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",

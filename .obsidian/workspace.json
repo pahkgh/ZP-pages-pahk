@@ -18,15 +18,30 @@
             }
           },
           {
-            "id": "fc8c5b00ce46bcef",
+            "id": "0dd7d490cf4ff2e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/200 『관광인류학의 이해』.md",
+                "file": "무제 파일 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fc8c5b00ce46bcef",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "공부/317 재오배로 시작되는 저항.canvas",
+                "viewState": {
+                  "x": 862.2956223750842,
+                  "y": 1651.790629878905,
+                  "zoom": -2.979903612275811
+                }
               }
             }
           },
@@ -82,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "재오배",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +152,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "무제 파일 1.md"
+              }
             }
           }
         ],
@@ -218,8 +237,12 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "26026dfa3394afd1",
+  "active": "cef2512fff0fe548",
   "lastOpenFiles": [
+    "무제 폴더",
+    "무제 파일 1.md",
+    "공부/317 재오배로 시작되는 저항.canvas",
+    "공부/200 『관광인류학의 이해』.md",
     "공부/706 환경 테마에 대해.md",
     "공부/209c '성지' 디즈니랜드.md",
     "공부/208a 훌라춤의 이미지 착취.md",
@@ -229,7 +252,6 @@
     "공부/400 『설법하는 고양이와 부처가 된 로봇』.md",
     "공부/402b 언어화와 개념화, 사구화.md",
     "공부/300 『관광객의 철학』.md",
-    "공부/200 『관광인류학의 이해』.md",
     "공부/202 관광객과 인류학자의 선 긋기.md",
     "bookbook/『제국』.md",
     "공부/603 '국가' 건축가의 함의.md",
@@ -247,13 +269,10 @@
     "공부/303a 현대 사회의 공통 윤리.md",
     "공부/301b1 관광객의 동기.md",
     "공부/703 재난에 관한 상상력.md",
-    "공부/704 미야자키의 트라우마.md",
-    "공부/703d 잔해도착증.md",
     "미야자키 월드",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",
     "전후 일본 건축",
-    "공부/317 재오배로 시작되는 저항.canvas",
     "영원성의 역사",
     "Foucault, Michel (푸코).canvas",
     "209 원조 테마파크, 디즈니랜드.canvas",

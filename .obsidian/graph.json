@@ -8,42 +8,42 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "content:\"관광객의 철학\"",
       "color": {
         "a": 1,
         "rgb": 7058431
       }
     },
     {
-      "query": "path:\"미야자키 월드\"",
+      "query": "content:\"미야자키 월드\"",
       "color": {
         "a": 1,
         "rgb": 5832959
       }
     },
     {
-      "query": "path:\"관광인류학의 이해\"",
+      "query": "content:\"관광인류학의 이해\"",
       "color": {
         "a": 1,
         "rgb": 16765266
       }
     },
     {
-      "query": "path:\"설법하는 고양이와 부처가 된 로봇\"",
+      "query": "content:\"설법하는 고양이와 부처가 된 로봇\"",
       "color": {
         "a": 1,
         "rgb": 12237498
       }
     },
     {
-      "query": "path:\"영원성의 역사\"",
+      "query": "content:\"영원성의 역사\"",
       "color": {
         "a": 1,
         "rgb": 14048431
       }
     },
     {
-      "query": "path:\"전후 일본 건축\"",
+      "query": "content:\"전후 일본 건축\"",
       "color": {
         "a": 1,
         "rgb": 7839409
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3371059850262852,
+  "scale": 0.21637413055587085,
   "close": false
 }

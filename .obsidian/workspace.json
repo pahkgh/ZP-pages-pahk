@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "특집/감각론 특집.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "특집/감각론 특집.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "특집/감각론 특집.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 1.md"
+                "file": "특집/감각론 특집.md"
               }
             }
           }
@@ -239,8 +239,9 @@
   },
   "active": "cef2512fff0fe548",
   "lastOpenFiles": [
-    "무제 폴더",
+    "특집/「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
     "무제 파일 1.md",
+    "특집",
     "공부/317 재오배로 시작되는 저항.canvas",
     "공부/200 『관광인류학의 이해』.md",
     "공부/706 환경 테마에 대해.md",

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관광객의 철학/305a1 근대 이전의 여행.md",
+                "file": "공부/300 『관광객의 철학』.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관광객의 철학/305a1 근대 이전의 여행.md",
+                "file": "공부/300 『관광객의 철학』.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관광객의 철학/305a1 근대 이전의 여행.md",
+                "file": "공부/300 『관광객의 철학』.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관광객의 철학/305a1 근대 이전의 여행.md"
+                "file": "공부/300 『관광객의 철학』.md"
               }
             }
           }
@@ -166,11 +166,14 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "workspaces:작업 공간 레이아웃 관리": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "publish:변경사항 출판": false
     }
   },
-  "active": "fc8c5b00ce46bcef",
+  "active": "cef2512fff0fe548",
   "lastOpenFiles": [
+    "관광객의 철학/305a1 근대 이전의 여행.md",
+    "공부",
     "관광객의 철학/303a 현대 사회의 공통 윤리.md",
     "관광객의 철학/301b1 관광객의 동기.md",
     "영원성의 역사/502 57쪽.md",
@@ -196,8 +199,6 @@
     "학자/스베틀라나 보임.md",
     "미야자키 월드/704b 책임감 있는 아이.md",
     "미야자키 월드/702 미야자키와 세계대전.md",
-    "미야자키 월드/702a 패전국의 국민들.md",
-    "무제 폴더",
     "미야자키 월드",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",

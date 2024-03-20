@@ -16,8 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "fc8c5b00ce46bcef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,6 +71,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f75390740d912bd4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -143,7 +162,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26026dfa3394afd1",
+  "active": "fc8c5b00ce46bcef",
   "lastOpenFiles": [
     "영원성의 역사/502 57쪽.md",
     "미야자키 월드/706 환경 테마에 대해.md",

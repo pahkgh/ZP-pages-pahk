@@ -1,13 +1,23 @@
 {
 	"nodes":[
-		{"id":"ae4f183a4e6e8412","type":"text","text":"나의 연구","x":-420,"y":-340,"width":185,"height":60},
 		{"id":"d298f79289684118","type":"text","text":"인류학","x":-160,"y":-340,"width":250,"height":60},
 		{"id":"9b7eab245bc03be5","type":"text","text":"문화","x":-160,"y":-260,"width":250,"height":60},
 		{"id":"ed2035fdea791291","type":"text","text":"스펙타클","x":-160,"y":-180,"width":250,"height":60},
 		{"id":"31051efd32969060","type":"text","text":"관광","x":-160,"y":-100,"width":250,"height":60},
 		{"id":"74aca603de7d3dd2","type":"text","text":"축제","x":-160,"y":-20,"width":250,"height":60},
 		{"id":"0256a604faaec238","x":-160,"y":60,"width":250,"height":60,"type":"text","text":"공간"},
-		{"id":"95acc73172139b10","x":-160,"y":140,"width":250,"height":60,"type":"text","text":"기록"}
+		{"id":"95acc73172139b10","x":-160,"y":140,"width":250,"height":60,"type":"text","text":"기록"},
+		{"id":"2f8eec327f6b7266","x":-160,"y":220,"width":250,"height":60,"type":"text","text":"인지"},
+		{"id":"ae4f183a4e6e8412","type":"text","text":"나의 연구","x":-540,"y":-50,"width":185,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"5e22e2286ae0d630","fromNode":"ae4f183a4e6e8412","fromSide":"right","toNode":"d298f79289684118","toSide":"left"},
+		{"id":"dd2c0448708b6f3e","fromNode":"ae4f183a4e6e8412","fromSide":"right","toNode":"9b7eab245bc03be5","toSide":"left"},
+		{"id":"611b5996896a90be","fromNode":"ae4f183a4e6e8412","fromSide":"right","toNode":"ed2035fdea791291","toSide":"left"},
+		{"id":"509156b670748c7f","fromNode":"ae4f183a4e6e8412","fromSide":"right","toNode":"31051efd32969060","toSide":"left"},
+		{"id":"182933871366af67","fromNode":"ae4f183a4e6e8412","fromSide":"right","toNode":"74aca603de7d3dd2","toSide":"left"},
+		{"id":"ea7df0fe46b2e641","fromNode":"ae4f183a4e6e8412","fromSide":"right","toNode":"0256a604faaec238","toSide":"left"},
+		{"id":"0ee048ff1839aa8b","fromNode":"ae4f183a4e6e8412","fromSide":"right","toNode":"95acc73172139b10","toSide":"left"},
+		{"id":"140365f1cf4e3326","fromNode":"ae4f183a4e6e8412","fromSide":"right","toNode":"2f8eec327f6b7266","toSide":"left"}
+	]
 }

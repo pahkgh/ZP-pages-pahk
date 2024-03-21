@@ -21,12 +21,14 @@
             "id": "0dd7d490cf4ff2e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "특집/감각론 특집.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -172,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "특집/감각론 특집.md",
+                "file": "무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "특집/감각론 특집.md",
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "특집/감각론 특집.md"
+                "file": "무제 파일.canvas"
               }
             }
           }
@@ -237,8 +239,9 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "cef2512fff0fe548",
+  "active": "0dd7d490cf4ff2e7",
   "lastOpenFiles": [
+    "특집/감각론 특집.md",
     "특집/「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
     "무제 파일 1.md",
     "특집",
@@ -269,7 +272,6 @@
     "공부",
     "공부/303a 현대 사회의 공통 윤리.md",
     "공부/301b1 관광객의 동기.md",
-    "공부/703 재난에 관한 상상력.md",
     "미야자키 월드",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",

@@ -25,10 +25,62 @@
               "state": {
                 "file": "무제 파일.canvas",
                 "viewState": {
-                  "x": 60.01194725178372,
-                  "y": 25.01040234853582,
-                  "zoom": -0.26334277086788155
+                  "x": 298.31042966714756,
+                  "y": -179.0624959437347,
+                  "zoom": -0.5737391729073433
                 }
+              }
+            }
+          },
+          {
+            "id": "316907ab28c329a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from.me/문학환경과곁사슬문학의이해.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "621b440124d848b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from.me/문화기술지.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "604651145f4ef608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from.me/일본문화연구.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08bd019ad7e599da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from.me/무제 파일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -100,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "from.me/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "from.me/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "from.me/무제 파일.md"
               }
             }
           }
@@ -239,11 +291,19 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "0dd7d490cf4ff2e7",
+  "active": "08bd019ad7e599da",
   "lastOpenFiles": [
+    "from.me/일본문화연구.md",
+    "from.me/무제 파일.md",
+    "from.me/문화기술지.md",
+    "from.me/문학환경과곁사슬문학의이해.md",
+    "from.me/도시인류학.md",
+    "from.me/네트워크사회의문화기획.md",
+    "from.me",
+    "무제 파일.canvas",
+    "2021128020 박규현_ 옳은 시간과 그른 사람.pdf",
     "특집/감각론 특집.md",
     "특집/「일본 SF 애니메이션의 서사적 혼종성과 의미론적 다중성」.md",
-    "무제 파일 1.md",
     "특집",
     "공부/317 재오배로 시작되는 저항.canvas",
     "공부/200 『관광인류학의 이해』.md",
@@ -251,7 +311,6 @@
     "공부/209c '성지' 디즈니랜드.md",
     "공부/208a 훌라춤의 이미지 착취.md",
     "공부/203b 성스러운 여행 의례.md",
-    "무제 파일.canvas",
     "공부/700 『미야자키 월드』.md",
     "공부/400 『설법하는 고양이와 부처가 된 로봇』.md",
     "공부/402b 언어화와 개념화, 사구화.md",
@@ -266,12 +325,7 @@
     "공부/600 『전후 일본 건축』.md",
     "영원성의 역사/502 57쪽.md",
     "공부/500 『영원성의 역사』.md",
-    "공부/301a 마을사람, 나그네, 관광객.md",
-    "공부/301 방법으로서의 관광객.md",
-    "공부/305a1 근대 이전의 여행.md",
     "공부",
-    "공부/303a 현대 사회의 공통 윤리.md",
-    "공부/301b1 관광객의 동기.md",
     "미야자키 월드",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",
     "전후 일본 건축/0장. 일본 건축에서 '전후'란 무엇인가",
@@ -283,8 +337,6 @@
     "공부/Pasted image 20230223222126.png",
     "YONSEI/Pasted image 20230228162517.png",
     "images/Pasted image 20230228173704.png",
-    "images/Pasted image 20230228173717.png",
-    "YONSEI",
-    "연세대학교"
+    "images/Pasted image 20230228173717.png"
   ]
 }

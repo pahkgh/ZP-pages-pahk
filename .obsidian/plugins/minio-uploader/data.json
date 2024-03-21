@@ -1,0 +1,15 @@
+{
+  "accessKey": "",
+  "secretKey": "",
+  "region": "",
+  "endpoint": "",
+  "port": 443,
+  "bucket": "",
+  "useSSL": true,
+  "imgPreview": true,
+  "videoPreview": true,
+  "audioPreview": true,
+  "docsPreview": "",
+  "nameRule": "timeAndLocal",
+  "pathRule": "root"
+}

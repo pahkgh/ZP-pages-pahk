@@ -13,5 +13,7 @@
   "buttons",
   "templater-obsidian",
   "obsidian-topic-linking",
-  "calendar"
+  "calendar",
+  "minio-uploader",
+  "pdf-plus"
 ]

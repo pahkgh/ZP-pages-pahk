@@ -77,7 +77,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "from.me/무제 파일.md",
+                "file": "from.me/사회언어학.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1e1152f9bf9ad92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from.me/인지과학연구방법론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c62879d0ff34d111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from.me/인류학특강.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b00a8fbdf600061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from.me/현대사회의돌봄과친밀성의구조.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a4deb873bb59686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from.me/애들놀이의 인류학.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -226,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "from.me/무제 파일.md",
+                "file": "from.me/애들놀이의 인류학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "from.me/무제 파일.md",
+                "file": "from.me/애들놀이의 인류학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "from.me/무제 파일.md"
+                "file": "from.me/애들놀이의 인류학.md"
               }
             }
           }
@@ -291,14 +343,19 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "08bd019ad7e599da",
+  "active": "6a4deb873bb59686",
   "lastOpenFiles": [
-    "from.me/일본문화연구.md",
-    "from.me/무제 파일.md",
+    "2021128020 박규현_ 애들놀이의인류학.pdf",
     "from.me/문화기술지.md",
-    "from.me/문학환경과곁사슬문학의이해.md",
     "from.me/도시인류학.md",
-    "from.me/네트워크사회의문화기획.md",
+    "from.me/현대중국의사회와문화.md",
+    "from.me/현대사회의돌봄과친밀성의구조.md",
+    "from.me/인류학특강.md",
+    "from.me/인지과학연구방법론.md",
+    "from.me/사회언어학.md",
+    "from.me/일본문화연구.md",
+    "from.me/문학환경과곁사슬문학의이해.md",
+    "from.me/애들놀이의 인류학.md",
     "from.me",
     "무제 파일.canvas",
     "2021128020 박규현_ 옳은 시간과 그른 사람.pdf",
@@ -320,11 +377,6 @@
     "공부/603 '국가' 건축가의 함의.md",
     "bookbook",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 10.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 9.md",
-    "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 7.md",
-    "공부/600 『전후 일본 건축』.md",
-    "영원성의 역사/502 57쪽.md",
-    "공부/500 『영원성의 역사』.md",
     "공부",
     "미야자키 월드",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가",

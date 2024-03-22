@@ -155,7 +155,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3b7bc09ba3e925b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -230,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -304,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +357,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 1.md"
+                "file": "timeline.md"
               }
             }
           },
@@ -380,13 +393,14 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "2f6ee4a99d92b528",
+  "active": "c3b7bc09ba3e925b",
   "lastOpenFiles": [
+    "factor 1.md",
+    "timeline.md",
+    "home.md",
     "무제 파일.canvas",
-    "무제 파일 1.md",
     "verticaltime/817 DR.md",
     "verticaltime",
-    "home.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 6.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 7.md",
     "from.me/애들놀이의 인류학.md",

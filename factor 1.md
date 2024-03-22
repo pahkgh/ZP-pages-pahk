@@ -1,5 +1,9 @@
 ---
-tags: [timeline, test, me, now]
+tags:
+  - timeline
+  - test
+  - me
+  - now
 ---
 
 <span 

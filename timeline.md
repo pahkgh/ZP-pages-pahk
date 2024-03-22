@@ -4,5 +4,3 @@
 ```timeline
 test;now
 ```
-
-<!--TIMELINE END-->

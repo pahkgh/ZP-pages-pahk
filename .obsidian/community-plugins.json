@@ -16,5 +16,6 @@
   "calendar",
   "minio-uploader",
   "pdf-plus",
-  "persistent-links"
+  "persistent-links",
+  "obsidian-timelines"
 ]

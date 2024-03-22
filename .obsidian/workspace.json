@@ -168,7 +168,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "factor 1.md",
+                "file": "timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "factor 1.md",
+                "file": "timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "factor 1.md",
+                "file": "timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,7 +357,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "factor 1.md"
+                "file": "timeline.md"
               }
             }
           },
@@ -395,9 +395,9 @@
   },
   "active": "c3b7bc09ba3e925b",
   "lastOpenFiles": [
-    "timeline.md",
     "home.md",
     "factor 1.md",
+    "timeline.md",
     "무제 파일.canvas",
     "verticaltime/817 DR.md",
     "verticaltime",

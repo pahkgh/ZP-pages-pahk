@@ -4,6 +4,7 @@ tags:
   - test
   - me
   - now
+aliases:
 ---
 
 <span 

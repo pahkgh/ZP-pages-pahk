@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline.md",
+                "file": "fromme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +168,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline.md",
+                "file": "Templates/Chaegscang.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98fa61e8810a1ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -243,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -317,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "timeline.md",
+                "file": "Templates/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "timeline.md",
+                "file": "Templates/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "timeline.md"
+                "file": "Templates/무제 파일.md"
               }
             }
           },
@@ -393,26 +406,28 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "c3b7bc09ba3e925b",
+  "active": "98fa61e8810a1ecb",
   "lastOpenFiles": [
-    "home.md",
+    "Templates/Chaegscang.md",
+    "Templates/무제 파일.md",
     "factor 1.md",
-    "timeline.md",
+    "fromme.md",
+    "home.md",
+    "from.me/일본문화연구.md",
+    "from.me/애들놀이의 인류학.md",
+    "from.me/도시인류학.md",
     "무제 파일.canvas",
     "verticaltime/817 DR.md",
     "verticaltime",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 6.md",
     "전후 일본 건축/1장. 단게 겐조, '전후' 일본의 국가 건축가/무제 파일 7.md",
-    "from.me/애들놀이의 인류학.md",
     "2021128020 박규현_ 애들놀이의인류학.pdf",
     "from.me/문화기술지.md",
-    "from.me/도시인류학.md",
     "from.me/현대중국의사회와문화.md",
     "from.me/현대사회의돌봄과친밀성의구조.md",
     "from.me/인류학특강.md",
     "from.me/인지과학연구방법론.md",
     "from.me/사회언어학.md",
-    "from.me/일본문화연구.md",
     "from.me/문학환경과곁사슬문학의이해.md",
     "from.me",
     "2021128020 박규현_ 옳은 시간과 그른 사람.pdf",
@@ -426,8 +441,6 @@
     "공부/208a 훌라춤의 이미지 착취.md",
     "공부/203b 성스러운 여행 의례.md",
     "공부/700 『미야자키 월드』.md",
-    "공부/400 『설법하는 고양이와 부처가 된 로봇』.md",
-    "공부/402b 언어화와 개념화, 사구화.md",
     "bookbook",
     "공부",
     "미야자키 월드",
@@ -438,7 +451,7 @@
     "209 원조 테마파크, 디즈니랜드-0.canvas",
     "공부/Pasted image 20230223222126.png",
     "YONSEI/Pasted image 20230228162517.png",
-    "images/Pasted image 20230228173704.png",
-    "images/Pasted image 20230228173717.png"
+    "설법하는 고양이와 부처가 된 로봇/images/Pasted image 20230228173704.png",
+    "설법하는 고양이와 부처가 된 로봇/images/Pasted image 20230228173717.png"
   ]
 }

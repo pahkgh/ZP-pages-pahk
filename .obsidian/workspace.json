@@ -181,7 +181,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/무제 파일.md",
+                "file": "factor 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0792fa5ebb6d080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "애들놀이의 인류학.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -256,7 +269,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -330,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/무제 파일.md",
+                "file": "애들놀이의 인류학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +360,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/무제 파일.md",
+                "file": "애들놀이의 인류학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,7 +383,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/무제 파일.md"
+                "file": "애들놀이의 인류학.md"
               }
             }
           },
@@ -406,13 +419,14 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "98fa61e8810a1ecb",
+  "active": "c0792fa5ebb6d080",
   "lastOpenFiles": [
-    "Templates/Chaegscang.md",
-    "Templates/무제 파일.md",
-    "factor 1.md",
-    "fromme.md",
     "home.md",
+    "fromme.md",
+    "Templates/타임라인.md",
+    "애들놀이의 인류학.md",
+    "factor 1.md",
+    "Templates/Chaegscang.md",
     "from.me/일본문화연구.md",
     "from.me/애들놀이의 인류학.md",
     "from.me/도시인류학.md",
@@ -440,7 +454,6 @@
     "공부/209c '성지' 디즈니랜드.md",
     "공부/208a 훌라춤의 이미지 착취.md",
     "공부/203b 성스러운 여행 의례.md",
-    "공부/700 『미야자키 월드』.md",
     "bookbook",
     "공부",
     "미야자키 월드",

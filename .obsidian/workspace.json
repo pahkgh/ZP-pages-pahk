@@ -194,7 +194,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "애들놀이의 인류학.md",
+                "file": "fromme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -343,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "애들놀이의 인류학.md",
+                "file": "fromme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,7 +360,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "애들놀이의 인류학.md",
+                "file": "fromme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -383,7 +383,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "애들놀이의 인류학.md"
+                "file": "fromme.md"
               }
             }
           },
@@ -419,12 +419,13 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "c0792fa5ebb6d080",
+  "active": "cef2512fff0fe548",
   "lastOpenFiles": [
-    "home.md",
+    "애들놀이의 인류학.md",
     "fromme.md",
     "Templates/타임라인.md",
-    "애들놀이의 인류학.md",
+    "Templates/필기.md",
+    "home.md",
     "factor 1.md",
     "Templates/Chaegscang.md",
     "from.me/일본문화연구.md",
@@ -453,7 +454,6 @@
     "공부/706 환경 테마에 대해.md",
     "공부/209c '성지' 디즈니랜드.md",
     "공부/208a 훌라춤의 이미지 착취.md",
-    "공부/203b 성스러운 여행 의례.md",
     "bookbook",
     "공부",
     "미야자키 월드",

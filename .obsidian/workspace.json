@@ -194,7 +194,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fromme.md",
+                "file": "Templates/이미지 첨부.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -343,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fromme.md",
+                "file": "Templates/이미지 첨부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,7 +360,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fromme.md",
+                "file": "Templates/이미지 첨부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -383,7 +383,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fromme.md"
+                "file": "Templates/이미지 첨부.md"
               }
             }
           },
@@ -421,9 +421,9 @@
   },
   "active": "c0792fa5ebb6d080",
   "lastOpenFiles": [
+    "fromme.md",
     "애들놀이의 인류학.md",
     "home.md",
-    "fromme.md",
     "factor 1.md",
     "Templates/타임라인.md",
     "Templates/필기.md",

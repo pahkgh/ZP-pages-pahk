@@ -1,7 +1,6 @@
 [
   "multi-column-markdown",
   "cmenu-plugin",
-  "obsidian-git",
   "obsidian-copy-block-link",
   "obsidian-drag-n-drop-plugin",
   "highlightr-plugin",
@@ -17,5 +16,6 @@
   "minio-uploader",
   "pdf-plus",
   "persistent-links",
-  "obsidian-timelines"
+  "obsidian-timelines",
+  "obsidian-git"
 ]

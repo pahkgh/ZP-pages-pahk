@@ -91,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/이미지 첨부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/이미지 첨부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/이미지 첨부.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +163,9 @@
       "publish:변경사항 출판": false
     }
   },
-  "active": "cef2512fff0fe548",
+  "active": "26026dfa3394afd1",
   "lastOpenFiles": [
+    "Templates/이미지 첨부.md",
     "utils.py",
     "run.sh",
     "README.md",
@@ -182,7 +179,6 @@
     "zola/sass/bootstrap/js/src/util/scrollbar.js",
     "zola/sass/bootstrap/js/src/util/sanitizer.js",
     "zola/sass/bootstrap/js/src/util/index.js",
-    "zola/sass/bootstrap/js/src/dom/selector-engine.js",
     "zola/sass/bootstrap/README.md",
     "zola/static/favicon-32x32.png",
     "zola/static/favicon-16x16.png",
